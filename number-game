@@ -1,0 +1,19 @@
+#!/usr/bin/python
+from random import randint as ran
+i = 0
+answer = ran(1, 10)
+
+print("I have picked a number beteen 1 and 10, Take your best guess!!!!!!")
+def checking():
+    global i
+    while i < 1:
+        response = int(input(">"))
+        if response == answer:
+            print("CONGRATS!!!! You got it right")
+            i = i + 1
+        elif response > answer:
+            print("Lower")
+        elif response < answer:
+            print("Higher")
+
+checking()
