@@ -1,0 +1,18 @@
+print("how old are you?",end=" ")
+age = input()
+print("how tall are you?",end=" ")
+height = input()
+print("how much do you weigh?",end=" ")
+weight = input()
+
+print("So, your're %r years old, %r tall, and weigh %r." % (age, height, weight))
+
+print("number 1: ",end=" ")
+x = int(input())
+print("Number 2: ",end=' ')
+y = int(input())
+print("given %d and %d i can do..." % (x, y))
+print("%d + %d = %d" % (x, y, x+y))
+print("%d - %d = %d" % (x, y, x-y))
+print("%d * %d = %d" % (x, y, x*y))
+print("%d / %d = %d" % (x, y, x/y))
