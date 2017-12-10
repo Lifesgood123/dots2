@@ -1,8 +1,0 @@
-#!/usr/bin/python
-from random import randint as ran
-def dice_roll(sides):
-    result = ran(1, (sides + 1))
-    return result
-print(dice_roll(int(input("How many sides are on the die?"))))
-
-
