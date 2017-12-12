@@ -29,14 +29,8 @@ def get_list(page):
     return result
 
 cars = []
-<<<<<<< HEAD
-
-for i in range(0, 9):
-    page = 0 
-=======
 page = 0
 for i in range(0, 9): 
->>>>>>> 68ecb1b66668b68bb2d7ed7dec47a135605f4ea4
     stuff = get_list(page).findAll("li", {"class":"result-row"})
     for car in stuff:
         cars.append(car)
