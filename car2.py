@@ -22,8 +22,8 @@ def get_list(page):
     result = page_soup.find("ul", {"class":"rows"})
     return result
 cars = []
-for i in range(0, 9):
-    page = 0 
+page = 0
+for i in range(0, 9): 
     stuff = get_list(page).findAll("li", {"class":"result-row"})
     for car in stuff:
         cars.append(car)
