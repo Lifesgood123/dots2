@@ -20,7 +20,8 @@ min_price = "&min_price=" + input("min price? >  ")
 # at the moment it holds it in ram and isn't efficient. Might be a better way to do this
 
 def get_list(page):
-    my_url = 'https://winstonsalem.craigslist.org/search/cta?s=' + str(page) + max_price + min_price
+    my_url = 'https://winstonsalem.craigslist.org/search/cto?s=' + str(page) + max_price + min_price
+    print(my_url)
     uclient = ureq(my_url)
     page_html = uclient.read()
     uclient.close()
@@ -30,11 +31,11 @@ def get_list(page):
 
 cars = []
 page = 0
-for i in range(0, 9): 
-    stuff = get_list(page).findAll("li", {"class":"result-row"})
-    for car in stuff:
-        cars.append(car)
-    page += 120
+for i in range(0, 8): 
+	stuff = get_list(page).findAll("li", {"class":"result-row"})
+	for car in stuff:
+		cars.append(car)
+	page += 120
 
 # The above for loop actually  makes the list.
 ###############################################################
@@ -49,8 +50,8 @@ for i in cars:
     post_html = postclient.read()
     postclient.close()
     post_soup = bs(post_html, "html.parser")
-    attributes = post_soup.findAll("p", {"class":"attrgroup"})
-    print(attributes[1].get_text())
+    #attributes = post_soup.findAll("p", {"class":"attrgroup"})
+    #print(attributes[1].get_text())
     title = i.p.a.text
     holdup = i.p.findAll("span", {"class":"result-price"})
     sheet.update_cell(rowcounter, 1, title)

@@ -1,23 +1,24 @@
 import os
 from urllib.request import urlopen as ureq
+from urllib.request import urlretrieve as uret
 import subprocess as cmdd
 from bs4 import BeautifulSoup as bs
-my_url = 'https://vid.me/users'
+my_url = 'https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-notes/'
 uclient = ureq(my_url)
 page_html = uclient.read()
 uclient.close()
 page_soup =  bs(page_html, "html.parser")
-list = page_soup.find_all("div",{"class":"user_photo"})
-i = 0 
-#while i <= len(list):
- 
-for user in list:
-    newpath = str(user.a["href"])
-    path = newpath.replace("https://vid.me/", "")
-    os.makedirs(path)
-    os.chdir(path)
-    cmdd.run(["youtube-dl", user.a["href"]])
-    os.chdir("..")
+main = page_soup.find("main")
+table = main.table
+links = table.findAll("a", href=True)
+os.chdir('../../Notes/')
+count = 1
+for i in links:
+    name = str(count) + ' ' + i.text
+    urlll = 'https://ocw.mit.edu' + i.get("href")
+    os.makedirs('./' + name)
+    os.chdir(name)
+    uret(urlll, filename=name)
+    count += 1
+    os.chdir("../")
 
-    
-    
