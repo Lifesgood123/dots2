@@ -1,0 +1,53 @@
+[INFO  - 2018-01-19T07:49:11.342Z] GhostDriver - Main - running on port 50475
+[INFO  - 2018-01-19T07:49:12.289Z] Session [3d3b61c0-fced-11e7-8ce4-d9552bfb705f] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-01-19T07:49:12.290Z] Session [3d3b61c0-fced-11e7-8ce4-d9552bfb705f] - page.customHeaders:  - {}
+[INFO  - 2018-01-19T07:49:12.290Z] Session [3d3b61c0-fced-11e7-8ce4-d9552bfb705f] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-01-19T07:49:12.290Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 3d3b61c0-fced-11e7-8ce4-d9552bfb705f
+[ERROR - 2018-01-19T07:49:13.504Z] Session [3d3b61c0-fced-11e7-8ce4-d9552bfb705f] - page.onError - msg: ReferenceError: Can't find variable: Promise
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-01-19T07:49:13.504Z] Session [3d3b61c0-fced-11e7-8ce4-d9552bfb705f] - page.onError - stack:
+  (anonymous function) (http://allrecipes.com/recipe/141678/slow-cooker-pulled-pork/?internalSource=hub%20recipe&referringId=253&referringContentType=recipe%20hub:87)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-01-19T07:49:14.275Z] Session [3d3b61c0-fced-11e7-8ce4-d9552bfb705f] - page.onError - msg: ReferenceError: Can't find variable: Promise
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-01-19T07:49:14.275Z] Session [3d3b61c0-fced-11e7-8ce4-d9552bfb705f] - page.onError - stack:
+  value (http://cdn.partners.allrecipes.com/telemetryapi/1/telemetry.js:1)
+  (anonymous function) (:0)
+  value (http://cdn.partners.allrecipes.com/telemetryapi/1/telemetry.js:1)
+  value (http://cdn.partners.allrecipes.com/telemetryapi/1/telemetry.js:1)
+  map (:0)
+  value (http://cdn.partners.allrecipes.com/telemetryapi/1/telemetry.js:1)
+  i (http://cdn.partners.allrecipes.com/telemetryapi/1/telemetry.js:1)
+  (anonymous function) (http://cdn.partners.allrecipes.com/telemetryapi/1/telemetry.js:1)
+  map (:0)
+  k (http://cdn.partners.allrecipes.com/telemetryapi/1/telemetry.js:1)
+  value (http://cdn.partners.allrecipes.com/telemetryapi/1/telemetry.js:1)
+  value (http://cdn.partners.allrecipes.com/telemetryapi/1/telemetry.js:1)
+  e (http://cdn.partners.allrecipes.com/telemetryapi/1/telemetry.js:1)
+  (anonymous function) (http://cdn.partners.allrecipes.com/telemetryapi/1/telemetry.js:1)
+  (anonymous function) (http://cdn.partners.allrecipes.com/telemetryapi/1/telemetry.js:1)
+  (anonymous function) (http://cdn.partners.allrecipes.com/telemetryapi/1/telemetry.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-01-19T07:49:14.774Z] Session [3d3b61c0-fced-11e7-8ce4-d9552bfb705f] - page.onError - msg: Error: undefined is not an object (evaluating 'e.scoby.telemetry.send')
+getDealsByRetailerId@http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js:176:19
+l@http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js:675:65
+http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js:678:42
+http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/main-bottom.bundled.js:802:456
+$eval@http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/main-bottom.bundled.js:817:69
+$digest@http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/main-bottom.bundled.js:814:136
+http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/main-bottom.bundled.js:817:163
+f@http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/main-bottom.bundled.js:715:497
+http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/main-bottom.bundled.js:718:419
+nrWrapper@http://allrecipes.com/recipe/141678/slow-cooker-pulled-pork/?internalSource=hub%20recipe&referringId=253&referringContentType=recipe%20hub:45:33263
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-01-19T07:49:14.774Z] Session [3d3b61c0-fced-11e7-8ce4-d9552bfb705f] - page.onError - stack:
+  (anonymous function) (http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/main-bottom.bundled.js:789)
+
+  phantomjs://platform/console++.js:263 in error
+PhantomJS has crashed. Please read the bug reporting guide at
+<http://phantomjs.org/bug-reporting.html> and file a bug report.

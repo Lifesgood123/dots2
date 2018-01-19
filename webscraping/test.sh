@@ -1,4 +1,4 @@
-xvfb-run python recipe-scrapper-ff
+xvfb-run python searchandscrape.py
 cd .. 
 git add *
 git commit -m "RECIPE SCRAPPER OFFICIALLY IN DEVELOPMENT"
