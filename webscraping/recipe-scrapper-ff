@@ -32,4 +32,4 @@ def do_stuff(url):
 			print("meh")
 with open("urlss") as f:
 	for line in f:
-		dot_stuff(line)
+		do_stuff(line)

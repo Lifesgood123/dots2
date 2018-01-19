@@ -453,3 +453,49 @@ JavaScript warning: http://dco-assets.everestads.net/ics-campaign///ad-templates
 1516345257393	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483797"
 1516345258206	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/70343/slow-cooker-chicken-taco-soup/?internalSource=previously%20viewed&referringContentType=home%20page&clickId=cardslot%205"
 [Child 11904, Chrome_ChildThread] WARNING: pipe error (19): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1516346673408	geckodriver	INFO	geckodriver 0.19.1
+1516346673411	geckodriver	INFO	Listening on 127.0.0.1:51681
+1516346674537	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.exZgZOiYCMaX"
+1516346675021	Marionette	INFO	Enabled via --marionette
+1516346676408	Marionette	INFO	Listening on port 36357
+1516346676451	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516346676530	Marionette	DEBUG	Register listener.js for window 2147483649
+1516346676545	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516346676858	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516346676858	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332-a/recipe.bundled.js, line 399: unreachable code after return statement
+1516346683380	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/8941/slow-cooker-chicken-and-dumplings/?internalSource=hub%20recipe&referringId=253&referringContentType=recipe%20hub"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+1516346685997	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1516346685997	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1516346688342	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516346688342	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1516346691591	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1516346692107	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483705"
+1516346692172	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483697"
+1516346693433	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483732"
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1516346702481	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/8941/slow-cooker-chicken-and-dumplings/?internalSource=hub%20recipe&referringId=253&referringContentType=recipe%20hub"
+[Child 27187, Chrome_ChildThread] WARNING: pipe error (20): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1516346702783	geckodriver	INFO	geckodriver 0.19.1
+1516346702787	geckodriver	INFO	Listening on 127.0.0.1:46817
+1516346703905	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.prCsTP5SQlou"
+1516346704604	Marionette	INFO	Enabled via --marionette
+1516346705694	Marionette	INFO	Listening on port 41035
+1516346705704	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516346705771	Marionette	DEBUG	Register listener.js for window 2147483649
+1516346705796	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516346706122	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516346706122	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Gdk-Message: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :99.
+
