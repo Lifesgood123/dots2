@@ -2993,3 +2993,1277 @@ JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.
 1516353862119	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/218905/blackened-chicken-alfredo-pizza/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2025"
 [Child 3626, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
 [Child 3626, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1516361264994	geckodriver	INFO	geckodriver 0.19.1
+1516361265003	geckodriver	INFO	Listening on 127.0.0.1:44509
+1516361266276	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.c9XcA5kIifVT"
+1516361267027	Marionette	INFO	Enabled via --marionette
+1516361268640	Marionette	INFO	Listening on port 43845
+1516361268691	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516361268761	Marionette	DEBUG	Register listener.js for window 2147483649
+1516361268775	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516361269124	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516361269125	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516361275356	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/search/results/?wt=Cheap%20pasta&sort=re&page=2#2"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516361278209	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1516361278210	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1516361278210	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1516361278210	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1516361278211	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1516361278946	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483670"
+1516361282121	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483753"
+1516361285913	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483761"
+1516361286140	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483765"
+1516361286785	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483769"
+1516361289628	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/search/results/?wt=Cheap%20pasta&sort=re&page=2#2"
+1516361289800	geckodriver	INFO	geckodriver 0.19.1
+1516361289804	geckodriver	INFO	Listening on 127.0.0.1:52993
+1516361290940	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.wAJyrnQPbLrg"
+1516361291395	Marionette	INFO	Enabled via --marionette
+1516361292437	Marionette	INFO	Listening on port 42259
+1516361292556	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516361292618	Marionette	DEBUG	Register listener.js for window 2147483649
+1516361292645	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516361293072	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516361293072	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+1516361299258	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/13028/italian-vegetable-soup/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%201"
+1516361299637	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1516361300349	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1516361300350	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1516361303550	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1516361303551	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1516361303551	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1516361303551	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483670"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516361304624	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483702"
+1516361305097	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483711"
+JavaScript warning: http://dco-assets.everestads.net/ics-campaign///ad-templates/global/jquery-2.0.3_edge.4.0.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1516361312037	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483792"
+1516361312322	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483801"
+JavaScript error: http://dco-assets.everestads.net/ics-campaign//5021/t/5683/4/728x90_edgePreload.js, line 32: ReferenceError: _introOver is not defined
+1516361314825	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483810"
+1516361314833	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483812"
+1516361314837	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483814"
+1516361315844	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/13028/italian-vegetable-soup/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%201"
+[Child 26848, Chrome_ChildThread] WARNING: pipe error (19): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1516361316278	geckodriver	INFO	geckodriver 0.19.1
+1516361316283	geckodriver	INFO	Listening on 127.0.0.1:43953
+1516361317554	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.40MghWOX1Hxu"
+1516361318260	Marionette	INFO	Enabled via --marionette
+1516361319915	Marionette	INFO	Listening on port 43883
+1516361319978	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516361320052	Marionette	DEBUG	Register listener.js for window 2147483649
+1516361320080	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516361320449	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516361320449	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+1516361326605	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/11689/greek-pasta-salad-i/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%204"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516361328663	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1516361328663	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1516361328664	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1516361328665	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1516361328908	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483681"
+1516361329423	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483685"
+1516361329562	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483697"
+1516361333296	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483734"
+1516361333459	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483740"
+JavaScript warning: http://dco-assets.everestads.net/ics-campaign///ad-templates/global/jquery-2.0.3_edge.4.0.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1516361335015	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483778"
+1516361338355	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483780"
+1516361338379	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483782"
+1516361339873	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/11689/greek-pasta-salad-i/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%204"
+1516361340149	geckodriver	INFO	geckodriver 0.19.1
+1516361340152	geckodriver	INFO	Listening on 127.0.0.1:50033
+1516361341282	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.YCkh5nnTZ9LK"
+1516361341747	Marionette	INFO	Enabled via --marionette
+1516361342863	Marionette	INFO	Listening on port 38571
+1516361342915	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516361342977	Marionette	DEBUG	Register listener.js for window 2147483649
+1516361342994	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516361343397	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516361343397	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+1516361345370	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/11892/penne-and-vodka-sauce/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2011"
+1516361346263	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516361350009	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1516361350009	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1516361350010	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1516361350010	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1516361351083	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483692"
+1516361351178	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483708"
+1516361351694	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483712"
+1516361351895	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483716"
+JavaScript warning: http://mathid.mathtag.com/device/id.js, line 1: unreachable code after return statement
+JavaScript warning: http://mathid.mathtag.com/device/id.js, line 1: unreachable code after return statement
+1516361357113	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/11892/penne-and-vodka-sauce/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2011"
+[Child 27548, Chrome_ChildThread] WARNING: pipe error (19): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1516361357403	geckodriver	INFO	geckodriver 0.19.1
+1516361357408	geckodriver	INFO	Listening on 127.0.0.1:44833
+1516361358527	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.kCgeJBzIv4ZP"
+1516361359056	Marionette	INFO	Enabled via --marionette
+1516361360084	Marionette	INFO	Listening on port 34395
+1516361360138	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516361360214	Marionette	DEBUG	Register listener.js for window 2147483649
+1516361360237	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516361360574	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516361360574	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+1516361362184	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/26301/spinach-and-orzo-salad/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2014"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516361366944	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1516361369810	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1516361369811	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1516361369811	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1516361369812	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1516361370574	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483695"
+1516361370917	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483711"
+1516361371562	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483726"
+1516361376879	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483767"
+1516361376892	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/26301/spinach-and-orzo-salad/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2014"
+1516361377189	geckodriver	INFO	geckodriver 0.19.1
+1516361377192	geckodriver	INFO	Listening on 127.0.0.1:50643
+1516361378312	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.dveYmsODJXHV"
+1516361378741	Marionette	INFO	Enabled via --marionette
+1516361379991	Marionette	INFO	Listening on port 43133
+1516361380026	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516361380113	Marionette	DEBUG	Register listener.js for window 2147483649
+1516361380140	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516361380462	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516361380463	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+1516361386690	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/21532/stuffed-shells-iii/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2018"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516361389677	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1516361390319	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516361390319	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1516361390319	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1516361390319	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+[Child 28233, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1516361872850	geckodriver	INFO	geckodriver 0.19.1
+1516361872853	geckodriver	INFO	Listening on 127.0.0.1:37347
+1516361873984	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.gElGQHKwfODk"
+1516361874436	Marionette	INFO	Enabled via --marionette
+1516361875526	Marionette	INFO	Listening on port 34621
+1516361875605	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516361875664	Marionette	DEBUG	Register listener.js for window 2147483649
+1516361875700	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516361876009	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516361876010	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516361877454	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/search/results/?wt=cheap%20pasta&sort=re&page=2#2"
+1516361879441	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1516361879441	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516361883471	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/search/results/?wt=cheap%20pasta&sort=re&page=2#2"
+[Child 1245, Chrome_ChildThread] WARNING: pipe error (44): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 1245, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1516361883673	geckodriver	INFO	geckodriver 0.19.1
+1516361883677	geckodriver	INFO	Listening on 127.0.0.1:34213
+1516361884797	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.9rjo5kLD3IsR"
+1516361885264	Marionette	INFO	Enabled via --marionette
+1516361886404	Marionette	INFO	Listening on port 36127
+1516361886440	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516361886525	Marionette	DEBUG	Register listener.js for window 2147483649
+1516361886552	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516361886952	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516361886952	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+1516361888283	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1516361893287	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/13028/italian-vegetable-soup/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%201"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516361896162	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1516361896162	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1516361896163	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1516361896163	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1516361897422	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483705"
+1516361897492	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483697"
+1516361897561	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483711"
+1516361902386	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483750"
+1516361902396	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483752"
+1516361903686	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483780"
+1516361903821	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483790"
+1516361904395	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/13028/italian-vegetable-soup/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%201"
+1516361904747	geckodriver	INFO	geckodriver 0.19.1
+1516361904750	geckodriver	INFO	Listening on 127.0.0.1:43409
+1516361905921	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.F3MSvX6Br5PA"
+1516361906530	Marionette	INFO	Enabled via --marionette
+1516361907827	Marionette	INFO	Listening on port 34143
+1516361907834	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516361907910	Marionette	DEBUG	Register listener.js for window 2147483649
+1516361907931	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516361908474	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516361908474	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+1516361915369	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/11689/greek-pasta-salad-i/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%204"
+1516361941040	geckodriver	INFO	geckodriver 0.19.1
+1516361941044	geckodriver	INFO	Listening on 127.0.0.1:43953
+1516361942174	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.dvFNM3pxgGXd"
+1516361942627	Marionette	INFO	Enabled via --marionette
+1516361943739	Marionette	INFO	Listening on port 33559
+1516361943789	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516361943850	Marionette	DEBUG	Register listener.js for window 2147483649
+1516361943864	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516361944272	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516361944272	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516361945478	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/search/results/?wt=cheap%20pasta&sort=re&page=2#2"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516361953486	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516361953487	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1516361953487	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1516361953488	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1516361953488	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1516361957603	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483741"
+1516361958006	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483755"
+1516361961496	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483782"
+1516361962145	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483792"
+1516361965438	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/search/results/?wt=cheap%20pasta&sort=re&page=2#2"
+[Child 2338, Chrome_ChildThread] WARNING: pipe error (20): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 2338, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1516361965719	geckodriver	INFO	geckodriver 0.19.1
+1516361965722	geckodriver	INFO	Listening on 127.0.0.1:53081
+1516361966869	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Bg7iYjOHE7Lb"
+1516361967353	Marionette	INFO	Enabled via --marionette
+1516361968527	Marionette	INFO	Listening on port 38003
+1516361968586	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516361968653	Marionette	DEBUG	Register listener.js for window 2147483649
+1516361968678	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516361969011	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516361969011	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332-a/recipe.bundled.js, line 399: unreachable code after return statement
+1516361975430	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/13028/italian-vegetable-soup/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%201"
+1516361976574	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1516361976574	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483673"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516361977574	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516361977574	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1516361977574	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1516361977575	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1516361978358	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483700"
+1516361978402	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483694"
+1516361978956	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483712"
+1516361978971	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483716"
+1516361979723	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483733"
+1516361985005	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/13028/italian-vegetable-soup/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%201"
+[Child 2701, Chrome_ChildThread] WARNING: pipe error (44): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 2701, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1516361985338	geckodriver	INFO	geckodriver 0.19.1
+1516361985341	geckodriver	INFO	Listening on 127.0.0.1:55371
+1516361986506	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.YfgSEAD3NEqV"
+1516362079443	geckodriver	INFO	geckodriver 0.19.1
+1516362079449	geckodriver	INFO	Listening on 127.0.0.1:57585
+1516362080573	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.fhQurO78g0NJ"
+1516362081174	Marionette	INFO	Enabled via --marionette
+1516362082418	Marionette	INFO	Listening on port 42415
+1516362082487	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516362082556	Marionette	DEBUG	Register listener.js for window 2147483649
+1516362082587	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516362082904	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516362082904	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516362089274	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/search/results/?wt=pesto%20pasta&sort=re&page=2#2"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516362095134	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1516362095135	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1516362095135	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1516362095137	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1516362096199	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483698"
+1516362097652	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483719"
+1516362098134	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483727"
+1516362098560	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483730"
+1516362099404	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/search/results/?wt=pesto%20pasta&sort=re&page=2#2"
+[Child 4107, Chrome_ChildThread] WARNING: pipe error (19): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1516362099581	geckodriver	INFO	geckodriver 0.19.1
+1516362099584	geckodriver	INFO	Listening on 127.0.0.1:37193
+1516362100738	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.zfbnsmgbonD6"
+1516362101326	Marionette	INFO	Enabled via --marionette
+1516362102344	Marionette	INFO	Listening on port 39041
+1516362102365	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516362102423	Marionette	DEBUG	Register listener.js for window 2147483649
+1516362102450	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516362102869	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516362102869	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+1516362104736	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/106380/creamy-pesto-pasta-salad-with-chicken-asparagus-and-cherry-tomatoes/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%201"
+1516362105956	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1516362106376	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1516362106377	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516362107698	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483689"
+1516362108224	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483698"
+1516362112967	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/106380/creamy-pesto-pasta-salad-with-chicken-asparagus-and-cherry-tomatoes/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%201"
+[Child 4465, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1516362113278	geckodriver	INFO	geckodriver 0.19.1
+1516362113281	geckodriver	INFO	Listening on 127.0.0.1:42847
+1516362114449	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ZoyD6Vt6PA5q"
+1516362115134	Marionette	INFO	Enabled via --marionette
+1516362116211	Marionette	INFO	Listening on port 43169
+1516362116268	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516362116335	Marionette	DEBUG	Register listener.js for window 2147483649
+1516362116354	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516362116833	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516362116834	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332-a/recipe.bundled.js, line 399: unreachable code after return statement
+1516362123165	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/258082/gnocchetti-sardi-in-pesto-leggero-di-zucchine-zucchini-pesto-pasta/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%202"
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+1516362124506	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1516362124507	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516362126253	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516362126254	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1516362127606	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483694"
+1516362128627	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483719"
+1516362132468	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483729"
+1516362132932	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/258082/gnocchetti-sardi-in-pesto-leggero-di-zucchine-zucchini-pesto-pasta/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%202"
+Gdk-Message: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :99.
+
+1516362204057	geckodriver	INFO	geckodriver 0.19.1
+1516362204062	geckodriver	INFO	Listening on 127.0.0.1:57161
+1516362205194	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.q1WvGh993HOL"
+1516362205761	Marionette	INFO	Enabled via --marionette
+1516362206821	Marionette	INFO	Listening on port 41239
+1516362206912	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516362206995	Marionette	DEBUG	Register listener.js for window 2147483649
+1516362207027	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516362207374	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516362207375	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516362208570	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/search/results/?wt=pesto%20pasta&sort=re&page=2#2"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516362219256	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/search/results/?wt=pesto%20pasta&sort=re&page=2#2"
+[Child 5816, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1516362219477	geckodriver	INFO	geckodriver 0.19.1
+1516362219481	geckodriver	INFO	Listening on 127.0.0.1:55921
+1516362220662	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.pGL671LbaDZu"
+1516362221176	Marionette	INFO	Enabled via --marionette
+1516362222239	Marionette	INFO	Listening on port 39675
+1516362222283	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516362222361	Marionette	DEBUG	Register listener.js for window 2147483649
+1516362222386	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516362222728	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516362222728	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+1516362229355	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/106380/creamy-pesto-pasta-salad-with-chicken-asparagus-and-cherry-tomatoes/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%201"
+1516362232708	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516362232708	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516362234521	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483673"
+1516362239803	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483696"
+1516362239806	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483698"
+1516362240742	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/106380/creamy-pesto-pasta-salad-with-chicken-asparagus-and-cherry-tomatoes/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%201"
+1516362241069	geckodriver	INFO	geckodriver 0.19.1
+1516362241076	geckodriver	INFO	Listening on 127.0.0.1:57633
+1516362242209	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Sx8HDqjj52Vb"
+1516362242838	Marionette	INFO	Enabled via --marionette
+1516362244022	Marionette	INFO	Listening on port 37889
+1516362244123	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516362244198	Marionette	DEBUG	Register listener.js for window 2147483649
+1516362244230	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516362244556	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516362244556	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+1516362246426	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/258082/gnocchetti-sardi-in-pesto-leggero-di-zucchine-zucchini-pesto-pasta/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%202"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516362251552	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1516362252733	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/258082/gnocchetti-sardi-in-pesto-leggero-di-zucchine-zucchini-pesto-pasta/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%202"
+1516362253106	geckodriver	INFO	geckodriver 0.19.1
+1516362253112	geckodriver	INFO	Listening on 127.0.0.1:49797
+1516362254385	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.rwyGjAeSDiAO"
+1516362255204	Marionette	INFO	Enabled via --marionette
+1516362256590	Marionette	INFO	Listening on port 43797
+1516362256618	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516362256683	Marionette	DEBUG	Register listener.js for window 2147483649
+1516362256703	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516362257115	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516362257115	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+1516362260600	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516362260600	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1516362263359	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/216913/broth-pesto-with-pasta-peas-and-chicken/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%203"
+1516362263624	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1516362265346	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1516362265346	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1516362266759	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483699"
+1516362266763	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483701"
+1516362268157	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483721"
+1516362272921	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/216913/broth-pesto-with-pasta-peas-and-chicken/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%203"
+[Child 6765, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1516362273250	geckodriver	INFO	geckodriver 0.19.1
+1516362273254	geckodriver	INFO	Listening on 127.0.0.1:37037
+1516362274451	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.luCjIwglWbgr"
+1516362275201	Marionette	INFO	Enabled via --marionette
+1516362276441	Marionette	INFO	Listening on port 46397
+1516362276473	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516362276554	Marionette	DEBUG	Register listener.js for window 2147483649
+1516362276585	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516362277080	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516362277080	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+1516362279496	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/242171/dandelion-pesto-and-sausage-pasta/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%204"
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+1516362280501	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1516362280502	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516362282893	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516362288019	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1516362288020	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1516362291420	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483691"
+1516362291422	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483693"
+1516362299101	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/242171/dandelion-pesto-and-sausage-pasta/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%204"
+[Child 7068, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1516362299351	geckodriver	INFO	geckodriver 0.19.1
+1516362299354	geckodriver	INFO	Listening on 127.0.0.1:60643
+1516362300527	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.gu2QUuR3XOu8"
+1516362301203	Marionette	INFO	Enabled via --marionette
+1516362302437	Marionette	INFO	Listening on port 43701
+1516362302457	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516362302532	Marionette	DEBUG	Register listener.js for window 2147483649
+1516362302555	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516362302950	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516362302950	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+1516362309556	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/246342/avocado-pesto-with-zucchini-pasta/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%207"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516362310556	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+1516362312572	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1516362312572	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1516362313682	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1516362313683	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1516362315066	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483696"
+1516362320384	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483724"
+1516362325208	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/246342/avocado-pesto-with-zucchini-pasta/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%207"
+[Child 7527, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1516362325567	geckodriver	INFO	geckodriver 0.19.1
+1516362325574	geckodriver	INFO	Listening on 127.0.0.1:56895
+1516362326742	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ghAmJFLWXV20"
+1516362327515	Marionette	INFO	Enabled via --marionette
+1516362328669	Marionette	INFO	Listening on port 44233
+1516362328754	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516362328840	Marionette	DEBUG	Register listener.js for window 2147483649
+1516362328867	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516362329201	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516362329201	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+1516362332458	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/78210/teenas-spicy-pesto-chicken-and-pasta/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%208"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516362336224	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1516362338372	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516362338372	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1516362340442	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483699"
+1516362341291	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483716"
+1516362342674	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/78210/teenas-spicy-pesto-chicken-and-pasta/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%208"
+1516362342965	geckodriver	INFO	geckodriver 0.19.1
+1516362342968	geckodriver	INFO	Listening on 127.0.0.1:59303
+1516362344107	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.WDfTaKWUlBle"
+1516362344776	Marionette	INFO	Enabled via --marionette
+1516362345936	Marionette	INFO	Listening on port 40883
+1516362346024	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516362346103	Marionette	DEBUG	Register listener.js for window 2147483649
+1516362346136	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516362346529	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516362346530	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+1516362349319	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/242158/shiitake-mushroom-sun-dried-tomato-pesto-and-shrimp-pasta/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%209"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516362357969	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1516362360453	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516362360453	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1516362372043	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483710"
+1516362372047	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483712"
+1516362376844	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/242158/shiitake-mushroom-sun-dried-tomato-pesto-and-shrimp-pasta/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%209"
+1516362377136	geckodriver	INFO	geckodriver 0.19.1
+1516362377139	geckodriver	INFO	Listening on 127.0.0.1:49231
+1516362378306	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.XXIoflbrN8jv"
+1516362378891	Marionette	INFO	Enabled via --marionette
+1516362379997	Marionette	INFO	Listening on port 38161
+1516362380022	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516362380080	Marionette	DEBUG	Register listener.js for window 2147483649
+1516362380099	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516362380450	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516362380689	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+1516362383888	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/40186/pesto-cream-sauce/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2010"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516362387199	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516362387199	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1516362387999	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1516362389558	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483704"
+1516362390149	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483714"
+1516362394978	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/40186/pesto-cream-sauce/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2010"
+[Child 8698, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1516362395312	geckodriver	INFO	geckodriver 0.19.1
+1516362395315	geckodriver	INFO	Listening on 127.0.0.1:40529
+1516362396481	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.SmbVI9FKekYH"
+1516362397233	Marionette	INFO	Enabled via --marionette
+1516362398614	Marionette	INFO	Listening on port 39809
+1516362398692	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516362398756	Marionette	DEBUG	Register listener.js for window 2147483649
+1516362398789	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516362399129	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516362399130	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+1516362410599	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/200283/spinach-basil-pesto/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2012"
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+1516362412737	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1516362412738	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1516362413910	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1516362413910	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516362416751	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483708"
+1516362421582	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483718"
+1516362421585	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483720"
+1516362424752	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/200283/spinach-basil-pesto/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2012"
+[Child 9005, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1516362425057	geckodriver	INFO	geckodriver 0.19.1
+1516362425060	geckodriver	INFO	Listening on 127.0.0.1:36105
+1516362426188	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.OtVue7qAXAVz"
+1516362426746	Marionette	INFO	Enabled via --marionette
+1516362427854	Marionette	INFO	Listening on port 33753
+1516362427898	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516362427966	Marionette	DEBUG	Register listener.js for window 2147483649
+1516362427988	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516362428337	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516362428337	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332-a/recipe.bundled.js, line 399: unreachable code after return statement
+1516362430144	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/11808/creamy-pesto-shrimp/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2013"
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+1516362431016	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516362431016	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1516362431083	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516362439066	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/11808/creamy-pesto-shrimp/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2013"
+1516362439436	geckodriver	INFO	geckodriver 0.19.1
+1516362439440	geckodriver	INFO	Listening on 127.0.0.1:44049
+1516362440569	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.wxAZeXnjO4Gl"
+1516362441288	Marionette	INFO	Enabled via --marionette
+1516362442560	Marionette	INFO	Listening on port 34737
+1516362442586	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516362442671	Marionette	DEBUG	Register listener.js for window 2147483649
+1516362442702	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516362443075	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516362443075	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+1516362449367	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/217899/mozzarella-stuffed-pesto-turkey-meatballs/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2014"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516362452088	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516362452089	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1516362454474	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483684"
+1516362454862	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483707"
+1516362455514	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483714"
+1516362460280	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/217899/mozzarella-stuffed-pesto-turkey-meatballs/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2014"
+[Child 9855, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1516362460662	geckodriver	INFO	geckodriver 0.19.1
+1516362460665	geckodriver	INFO	Listening on 127.0.0.1:39719
+1516362461788	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.avoJPMqhV64n"
+1516362462683	Marionette	INFO	Enabled via --marionette
+1516362463936	Marionette	INFO	Listening on port 33577
+1516362464015	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516362464110	Marionette	DEBUG	Register listener.js for window 2147483649
+1516362464142	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516362464505	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516362464505	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332-a/recipe.bundled.js, line 399: unreachable code after return statement
+1516362471079	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/223028/salsa-di-noci/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2015"
+1516362476333	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1516362476333	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516362478336	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483696"
+1516362483800	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483719"
+1516362483803	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483721"
+1516362484021	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/223028/salsa-di-noci/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2015"
+1516362484335	geckodriver	INFO	geckodriver 0.19.1
+1516362484339	geckodriver	INFO	Listening on 127.0.0.1:48411
+1516362485565	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.2UAUPNAUd1di"
+1516362486316	Marionette	INFO	Enabled via --marionette
+1516362488438	Marionette	INFO	Listening on port 42063
+1516362488507	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516362488593	Marionette	DEBUG	Register listener.js for window 2147483649
+1516362488628	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516362488986	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516362488986	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+1516362495085	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/23134/pesto-sauce/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2017"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+1516362499150	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1516362499150	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1516362500748	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516362500749	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1516362502522	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1516362504661	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483718"
+1516362505016	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483729"
+1516362509921	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/23134/pesto-sauce/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2017"
+1516362510350	geckodriver	INFO	geckodriver 0.19.1
+1516362510353	geckodriver	INFO	Listening on 127.0.0.1:57893
+1516362511517	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ifztCFZQhJb4"
+1516362512269	Marionette	INFO	Enabled via --marionette
+1516362513431	Marionette	INFO	Listening on port 46257
+1516362513541	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516362513610	Marionette	DEBUG	Register listener.js for window 2147483649
+1516362513622	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516362514033	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516362514033	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+1516362520830	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/238848/chef-johns-almond-arugula-pesto/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2018"
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+1516362525673	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1516362525673	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516362532248	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/238848/chef-johns-almond-arugula-pesto/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2018"
+[Child 11096, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1516362532591	geckodriver	INFO	geckodriver 0.19.1
+1516362532600	geckodriver	INFO	Listening on 127.0.0.1:44135
+1516362533769	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ForO1YTBzezi"
+1516362534555	Marionette	INFO	Enabled via --marionette
+1516362535783	Marionette	INFO	Listening on port 44343
+1516362535802	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516362535873	Marionette	DEBUG	Register listener.js for window 2147483649
+1516362535895	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516362536355	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516362536355	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+1516362538941	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/258213/proper-pesto/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2019"
+1516362545745	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1516362547233	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/258213/proper-pesto/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2019"
+[Child 11477, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 11477, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1516362547492	geckodriver	INFO	geckodriver 0.19.1
+1516362547498	geckodriver	INFO	Listening on 127.0.0.1:39581
+1516362548627	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.UFfjGmAVQmht"
+1516362549220	Marionette	INFO	Enabled via --marionette
+1516362550554	Marionette	INFO	Listening on port 46687
+1516362550642	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516362550733	Marionette	DEBUG	Register listener.js for window 2147483649
+1516362550755	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516362551110	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516362551409	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332-a/recipe.bundled.js, line 399: unreachable code after return statement
+1516362553461	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/11749/chicken-pesto-a-la-lisa/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2020"
+1516362556316	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516362560286	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1516362560287	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1516362562100	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483695"
+1516362563795	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483720"
+1516362563844	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/11749/chicken-pesto-a-la-lisa/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2020"
+[Child 11755, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1516362564123	geckodriver	INFO	geckodriver 0.19.1
+1516362564131	geckodriver	INFO	Listening on 127.0.0.1:45489
+1516362565250	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.9d02h7N4V7gr"
+1516362566134	Marionette	INFO	Enabled via --marionette
+1516362567366	Marionette	INFO	Listening on port 39309
+1516362567466	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516362567533	Marionette	DEBUG	Register listener.js for window 2147483649
+1516362567549	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516362567892	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516362567893	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+1516362572459	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/244527/presto-pesto-hamburger-mac/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2022"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516362578169	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516362578358	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1516362578871	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1516362579979	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483690"
+1516362580520	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483696"
+1516362585354	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/244527/presto-pesto-hamburger-mac/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2022"
+[Child 12047, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1516362585679	geckodriver	INFO	geckodriver 0.19.1
+1516362585682	geckodriver	INFO	Listening on 127.0.0.1:45627
+1516362586810	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.rVVn5hSCDGto"
+1516362587742	Marionette	INFO	Enabled via --marionette
+1516362589077	Marionette	INFO	Listening on port 41275
+1516362589132	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516362589194	Marionette	DEBUG	Register listener.js for window 2147483649
+1516362589213	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516362589558	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516362589558	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+1516362591314	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/76697/simple-garlic-and-basil-pesto/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2023"
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+1516362592355	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1516362592355	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1516362595632	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516362599525	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/76697/simple-garlic-and-basil-pesto/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2023"
+1516362599894	geckodriver	INFO	geckodriver 0.19.1
+1516362599897	geckodriver	INFO	Listening on 127.0.0.1:36253
+1516362601057	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.VM6fyApyyV9l"
+1516362601905	Marionette	INFO	Enabled via --marionette
+1516362602973	Marionette	INFO	Listening on port 37299
+1516362603079	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516362603154	Marionette	DEBUG	Register listener.js for window 2147483649
+1516362603175	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516362603529	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516362603529	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+1516362605286	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/79450/yummy-vegan-pesto-classico/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2024"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516362610990	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1516362612199	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516362612199	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1516362614133	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483690"
+1516362618969	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483719"
+1516362619149	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/79450/yummy-vegan-pesto-classico/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2024"
+1516362619482	geckodriver	INFO	geckodriver 0.19.1
+1516362619485	geckodriver	INFO	Listening on 127.0.0.1:42633
+1516362620639	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.tiR8MclkHjV1"
+1516362621370	Marionette	INFO	Enabled via --marionette
+1516362622764	Marionette	INFO	Listening on port 37171
+1516362622873	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516362622976	Marionette	DEBUG	Register listener.js for window 2147483649
+1516362622995	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516362623342	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516362623343	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+1516362629777	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/40155/basil-cream-sauce/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2025"
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+1516362634742	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1516362634742	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1516362637097	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1516362637097	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516362640981	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483678"
+1516362641242	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483691"
+1516362641653	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483698"
+1516362646112	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/40155/basil-cream-sauce/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2025"
+1516362776135	geckodriver	INFO	geckodriver 0.19.1
+1516362776139	geckodriver	INFO	Listening on 127.0.0.1:53891
+1516362777282	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.sEROWfg0LgxA"
+1516362777809	Marionette	INFO	Enabled via --marionette
+1516362778932	Marionette	INFO	Listening on port 43669
+1516362779006	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516362779074	Marionette	DEBUG	Register listener.js for window 2147483649
+1516362779094	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516362779428	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516362779428	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516362781441	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/search/results/?wt=pesto%20pasta&sort=re&page=2#2"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516362784902	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516362784902	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1516362784902	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1516362784902	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1516362787551	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483727"
+JavaScript warning: http://dco-assets.everestads.net/ics-campaign///ad-templates/global/jquery-2.0.3_edge.4.0.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1516362788142	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483738"
+1516362789329	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483758"
+1516362791049	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483768"
+1516362791646	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483771"
+1516362794075	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/search/results/?wt=pesto%20pasta&sort=re&page=2#2"
+[Child 14852, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1516362794276	geckodriver	INFO	geckodriver 0.19.1
+1516362794279	geckodriver	INFO	Listening on 127.0.0.1:45791
+1516362795494	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.AP9TohJljTSE"
+1516362796261	Marionette	INFO	Enabled via --marionette
+1516362797464	Marionette	INFO	Listening on port 46543
+1516362797522	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516362797661	Marionette	DEBUG	Register listener.js for window 2147483649
+1516362797705	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516362798019	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516362799411	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332-a/recipe.bundled.js, line 399: unreachable code after return statement
+1516362801392	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/106380/creamy-pesto-pasta-salad-with-chicken-asparagus-and-cherry-tomatoes/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%201"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516362808881	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1516362809273	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/106380/creamy-pesto-pasta-salad-with-chicken-asparagus-and-cherry-tomatoes/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%201"
+[Child 15131, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 15131, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1516362809643	geckodriver	INFO	geckodriver 0.19.1
+1516362809649	geckodriver	INFO	Listening on 127.0.0.1:55979
+1516362810851	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.UpaIznS9kzNT"
+1516362811551	Marionette	INFO	Enabled via --marionette
+1516362812948	Marionette	INFO	Listening on port 36327
+1516362813006	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516362813114	Marionette	DEBUG	Register listener.js for window 2147483649
+1516362813141	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516362813447	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516362813447	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332-a/recipe.bundled.js, line 399: unreachable code after return statement
+1516362815459	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/258082/gnocchetti-sardi-in-pesto-leggero-di-zucchine-zucchini-pesto-pasta/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%202"
+1516362816227	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1516362816227	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1516362819177	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483689"
+1516362819190	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483691"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516362819850	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483695"
+1516362823827	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/258082/gnocchetti-sardi-in-pesto-leggero-di-zucchine-zucchini-pesto-pasta/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%202"
+1516362824122	geckodriver	INFO	geckodriver 0.19.1
+1516362824127	geckodriver	INFO	Listening on 127.0.0.1:45569
+1516362825371	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.FYmOgAS4CDzT"
+1516362826445	Marionette	INFO	Enabled via --marionette
+1516362827726	Marionette	INFO	Listening on port 37305
+1516362827831	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516362827925	Marionette	DEBUG	Register listener.js for window 2147483649
+1516362827944	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516362828285	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516362828290	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+1516362830616	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/216913/broth-pesto-with-pasta-peas-and-chicken/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%203"
+1516362840484	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1516362842908	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1516362842909	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1516362844121	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483689"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516362845494	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483709"
+1516362849363	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483739"
+1516362849380	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/216913/broth-pesto-with-pasta-peas-and-chicken/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%203"
+1516362849725	geckodriver	INFO	geckodriver 0.19.1
+1516362849729	geckodriver	INFO	Listening on 127.0.0.1:35357
+1516362850938	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.AdWrTXLVvcb9"
+1516362851930	Marionette	INFO	Enabled via --marionette
+1516362853397	Marionette	INFO	Listening on port 36617
+1516362853454	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516362853555	Marionette	DEBUG	Register listener.js for window 2147483649
+1516362853595	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516362853932	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516362853933	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+1516362855495	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/242171/dandelion-pesto-and-sausage-pasta/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%204"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516362862972	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516362865745	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1516362865745	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1516362867298	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1516362867794	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483680"
+1516362867853	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483682"
+1516362873911	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483747"
+1516362874152	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/242171/dandelion-pesto-and-sausage-pasta/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%204"
+1516362874457	geckodriver	INFO	geckodriver 0.19.1
+1516362874460	geckodriver	INFO	Listening on 127.0.0.1:35335
+1516362875711	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.KKrtYlUqYJdn"
+1516362876554	Marionette	INFO	Enabled via --marionette
+1516362877973	Marionette	INFO	Listening on port 44423
+1516362878030	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516362878130	Marionette	DEBUG	Register listener.js for window 2147483649
+1516362878157	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516362878511	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516362879767	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+1516362881845	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/246342/avocado-pesto-with-zucchini-pasta/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%207"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516362892745	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516362893806	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1516362893806	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1516362895804	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483695"
+1516362895818	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483697"
+1516362897732	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/246342/avocado-pesto-with-zucchini-pasta/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%207"
+1516362898118	geckodriver	INFO	geckodriver 0.19.1
+1516362898122	geckodriver	INFO	Listening on 127.0.0.1:36259
+1516362899345	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.mUK518RBiK8P"
+1516362899932	Marionette	INFO	Enabled via --marionette
+1516362901386	Marionette	INFO	Listening on port 45047
+1516362901463	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516362901581	Marionette	DEBUG	Register listener.js for window 2147483649
+1516362901611	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516362901931	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516362901931	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332-a/recipe.bundled.js, line 399: unreachable code after return statement
+1516362908396	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/78210/teenas-spicy-pesto-chicken-and-pasta/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%208"
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+1516362909282	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516362909283	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516362911319	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1516362912041	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/78210/teenas-spicy-pesto-chicken-and-pasta/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%208"
+1516362912346	geckodriver	INFO	geckodriver 0.19.1
+1516362912353	geckodriver	INFO	Listening on 127.0.0.1:59951
+1516362913583	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.v6Qz6xUbZBgG"
+1516362914333	Marionette	INFO	Enabled via --marionette
+1516362915712	Marionette	INFO	Listening on port 43385
+1516362915822	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516362915897	Marionette	DEBUG	Register listener.js for window 2147483649
+1516362915917	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516362916391	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516362916391	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+1516362918025	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/242158/shiitake-mushroom-sun-dried-tomato-pesto-and-shrimp-pasta/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%209"
+1516362923704	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516362926410	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/242158/shiitake-mushroom-sun-dried-tomato-pesto-and-shrimp-pasta/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%209"
+1516362926709	geckodriver	INFO	geckodriver 0.19.1
+1516362926714	geckodriver	INFO	Listening on 127.0.0.1:49975
+1516362927925	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.w2o0YCCpew7p"
+1516362928602	Marionette	INFO	Enabled via --marionette
+1516362929910	Marionette	INFO	Listening on port 41953
+1516362929969	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516362930115	Marionette	DEBUG	Register listener.js for window 2147483649
+1516362930200	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516362930677	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516362930677	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+1516362932498	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/40186/pesto-cream-sauce/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2010"
+1516362933919	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516362940716	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/40186/pesto-cream-sauce/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2010"
+1516362941021	geckodriver	INFO	geckodriver 0.19.1
+1516362941024	geckodriver	INFO	Listening on 127.0.0.1:50001
+1516362942262	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.b3hnqY4oeENL"
+1516362942952	Marionette	INFO	Enabled via --marionette
+1516362944211	Marionette	INFO	Listening on port 44331
+1516362944298	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516362944394	Marionette	DEBUG	Register listener.js for window 2147483649
+1516362944430	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516362944785	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516362944785	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+1516362951319	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/200283/spinach-basil-pesto/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2012"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+1516362951636	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1516362951636	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1516362952463	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1516362954665	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1516362954666	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1516362957705	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483711"
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 25: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 25: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 25: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 25: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 25: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 25: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+JavaScript error: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 25: TypeError: PP(...) is not a function
+1516362962723	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483720"
+1516362962745	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/200283/spinach-basil-pesto/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2012"
+[Child 17719, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1516362963094	geckodriver	INFO	geckodriver 0.19.1
+1516362963097	geckodriver	INFO	Listening on 127.0.0.1:57153
+1516362964333	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.YqHPN8pFVcrS"
+1516362965375	Marionette	INFO	Enabled via --marionette
+1516362966869	Marionette	INFO	Listening on port 33263
+1516362966953	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516362967032	Marionette	DEBUG	Register listener.js for window 2147483649
+1516362967044	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516362967467	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516362967467	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+1516362969377	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/11808/creamy-pesto-shrimp/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2013"
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+1516362970125	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1516362970125	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516362972498	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516362977408	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/11808/creamy-pesto-shrimp/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2013"
+[Child 18125, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1516362977890	geckodriver	INFO	geckodriver 0.19.1
+1516362977901	geckodriver	INFO	Listening on 127.0.0.1:58019
+1516362979006	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.xCQKhJ4DYnBb"
+1516362979634	Marionette	INFO	Enabled via --marionette
+1516362980914	Marionette	INFO	Listening on port 33215
+1516362980931	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516362981068	Marionette	DEBUG	Register listener.js for window 2147483649
+1516362981101	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516362981556	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516362981556	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+1516362984759	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/217899/mozzarella-stuffed-pesto-turkey-meatballs/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2014"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516362987492	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1516362994922	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/217899/mozzarella-stuffed-pesto-turkey-meatballs/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2014"
+1516362995211	geckodriver	INFO	geckodriver 0.19.1
+1516362995214	geckodriver	INFO	Listening on 127.0.0.1:46995
+1516362996398	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.lfkPVDb1PQ9M"
+1516362998641	Marionette	INFO	Enabled via --marionette
+1516363001710	Marionette	INFO	Listening on port 39071
+1516363001735	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516363001856	Marionette	DEBUG	Register listener.js for window 2147483649
+1516363001897	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516363002240	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516363002240	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+1516363008788	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/223028/salsa-di-noci/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2015"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516363012107	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516363012107	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1516363016375	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1516363016734	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483690"
+1516363016961	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483684"
+1516363017042	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483697"
+1516363017970	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483721"
+1516363023107	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/223028/salsa-di-noci/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2015"
+1516363023488	geckodriver	INFO	geckodriver 0.19.1
+1516363023492	geckodriver	INFO	Listening on 127.0.0.1:48537
+1516363024655	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.3YuyH7aRyQUq"
+1516363025341	Marionette	INFO	Enabled via --marionette
+1516363027209	Marionette	INFO	Listening on port 45599
+1516363027278	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516363027373	Marionette	DEBUG	Register listener.js for window 2147483649
+1516363027413	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516363027762	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516363027763	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+1516363029395	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/23134/pesto-sauce/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2017"
+1516363030228	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516363040259	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/23134/pesto-sauce/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2017"
+[Child 19282, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 19282, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1516363040680	geckodriver	INFO	geckodriver 0.19.1
+1516363040684	geckodriver	INFO	Listening on 127.0.0.1:40247
+1516363041871	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.SKffmva5zdTo"
+1516363042646	Marionette	INFO	Enabled via --marionette
+1516363043716	Marionette	INFO	Listening on port 37265
+1516363043787	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516363043875	Marionette	DEBUG	Register listener.js for window 2147483649
+1516363043900	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516363044206	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516363044206	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+1516363045901	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516363045901	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1516363050259	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/238848/chef-johns-almond-arugula-pesto/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2018"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516363052794	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1516363052908	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1516363052909	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1516363054012	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483693"
+1516363054603	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483704"
+1516363059923	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/238848/chef-johns-almond-arugula-pesto/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2018"
+1516363060264	geckodriver	INFO	geckodriver 0.19.1
+1516363060267	geckodriver	INFO	Listening on 127.0.0.1:45779
+1516363061544	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.WhAOlKWMpfZj"
+1516363062383	Marionette	INFO	Enabled via --marionette
+1516363063753	Marionette	INFO	Listening on port 39575
+1516363063777	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516363063866	Marionette	DEBUG	Register listener.js for window 2147483649
+1516363063894	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516363064385	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516363064386	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+1516363067234	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/258213/proper-pesto/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2019"
+1516363070457	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1516363070457	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516363075714	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483702"
+1516363080697	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483709"
+1516363080703	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483711"
+1516363080804	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/258213/proper-pesto/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2019"
+1516363081230	geckodriver	INFO	geckodriver 0.19.1
+1516363081234	geckodriver	INFO	Listening on 127.0.0.1:48855
+1516363082434	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.3SpeVtrkjc0l"
+1516363083046	Marionette	INFO	Enabled via --marionette
+1516363084379	Marionette	INFO	Listening on port 40259
+1516363084457	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516363084555	Marionette	DEBUG	Register listener.js for window 2147483649
+1516363084580	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516363084986	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516363084986	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+1516363091620	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/11749/chicken-pesto-a-la-lisa/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2020"
+1516363094713	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516363094713	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516363097551	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483679"
+1516363097555	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483681"
+1516363104701	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/11749/chicken-pesto-a-la-lisa/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2020"
+1516363105024	geckodriver	INFO	geckodriver 0.19.1
+1516363105027	geckodriver	INFO	Listening on 127.0.0.1:60341
+1516363106301	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.wIDRQYfmv7Rm"
+1516363107016	Marionette	INFO	Enabled via --marionette
+1516363108404	Marionette	INFO	Listening on port 43215
+1516363108465	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516363108578	Marionette	DEBUG	Register listener.js for window 2147483649
+1516363108605	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516363109037	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516363109037	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332-a/recipe.bundled.js, line 399: unreachable code after return statement
+1516363110836	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/244527/presto-pesto-hamburger-mac/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2022"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516363112217	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1516363112977	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516363112977	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1516363120351	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483706"
+1516363120365	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483710"
+1516363120757	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/244527/presto-pesto-hamburger-mac/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2022"
+[Child 20635, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 20635, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1516363121193	geckodriver	INFO	geckodriver 0.19.1
+1516363121199	geckodriver	INFO	Listening on 127.0.0.1:57933
+1516363122404	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.B7RkxYAyEqcx"
+1516363122966	Marionette	INFO	Enabled via --marionette
+1516363124601	Marionette	INFO	Listening on port 33953
+1516363124627	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516363124736	Marionette	DEBUG	Register listener.js for window 2147483649
+1516363124779	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516363125515	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516363125516	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+1516363127450	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/76697/simple-garlic-and-basil-pesto/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2023"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516363134782	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1516363136803	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516363136804	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1516363138660	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1516363140260	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483727"
+1516363150254	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/76697/simple-garlic-and-basil-pesto/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2023"
+[Child 20906, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1516363150594	geckodriver	INFO	geckodriver 0.19.1
+1516363150597	geckodriver	INFO	Listening on 127.0.0.1:50593
+1516363151873	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.J4IhdVyNv1HC"
+1516363152669	Marionette	INFO	Enabled via --marionette
+1516363154094	Marionette	INFO	Listening on port 45337
+1516363154203	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516363154293	Marionette	DEBUG	Register listener.js for window 2147483649
+1516363154312	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516363154612	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516363154613	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332-a/recipe.bundled.js, line 399: unreachable code after return statement
+1516363161102	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/79450/yummy-vegan-pesto-classico/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2024"
+1516363164376	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1516363164376	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516363166348	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483684"
+1516363168080	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483714"
+1516363168376	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483717"
+1516363173202	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/79450/yummy-vegan-pesto-classico/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2024"
+1516363173644	geckodriver	INFO	geckodriver 0.19.1
+1516363173647	geckodriver	INFO	Listening on 127.0.0.1:40807
+1516363174913	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.jOXrjec7Knak"
+1516363183052	Marionette	INFO	Enabled via --marionette
+1516363184695	Marionette	INFO	Listening on port 45671
+1516363184746	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516363184854	Marionette	DEBUG	Register listener.js for window 2147483649
+1516363184905	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516363185262	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516363185263	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+1516363192490	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/40155/basil-cream-sauce/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2025"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516363195291	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516363195291	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1516363199320	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483708"
+1516363199458	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483712"
+JavaScript warning: http://dco-assets.everestads.net/ics-campaign///ad-templates/global/jquery-2.0.3_edge.4.0.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1516363200196	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483720"
+1516363201658	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483738"
+1516363203914	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/40155/basil-cream-sauce/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2025"
