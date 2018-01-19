@@ -30,6 +30,6 @@ def do_stuff(url):
 
 		except:
 			print("meh")
-with open(urlss) as f:
+with open("urlss") as f:
 	for line in f:
 		dot_stuff(line)
