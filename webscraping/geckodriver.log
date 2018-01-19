@@ -239,3 +239,217 @@ JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 >
 1516053804718	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
 1516053804718	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
 1516053810601	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/18032/slow-cooker-lemon-garlic-chicken-ii/"
+1516249755357	geckodriver	INFO	geckodriver 0.19.1
+1516249755366	geckodriver	INFO	Listening on 127.0.0.1:34751
+1516249756520	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ouMlWAW3yFWU"
+1516249757280	Marionette	INFO	Enabled via --marionette
+1516249758841	Marionette	INFO	Listening on port 34843
+1516249758941	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516249759022	Marionette	DEBUG	Register listener.js for window 2147483649
+1516249759039	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516249759236	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516249759237	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516249761599	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://overwatchleague.com/en-us/schedule"
+1516249771181	Marionette	DEBUG	Received DOM event "pageshow" for "https://overwatchleague.com/en-us/schedule"
+[Child 16001, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 16001, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 16001, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1516250182668	geckodriver	INFO	geckodriver 0.19.1
+1516250182672	geckodriver	INFO	Listening on 127.0.0.1:41277
+1516250183800	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.z4G60qUMy4GB"
+1516250184287	Marionette	INFO	Enabled via --marionette
+1516250185334	Marionette	INFO	Listening on port 40475
+1516250185408	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516250185468	Marionette	DEBUG	Register listener.js for window 2147483649
+1516250185489	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516250185825	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516250185825	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332-a/recipe.bundled.js, line 399: unreachable code after return statement
+1516250192449	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/18032/slow-cooker-lemon-garlic-chicken-ii/"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+1516250195350	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1516250195350	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1516250195720	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516250195721	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1516250196902	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+JavaScript warning: https://allrecipes.groceryserver.com/groceryserver/whole-foods-nov-vegan-edu-300x250/gallery-scripts.jsp?chng=x3, line 4098: unreachable code after return statement
+1516250198005	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483699"
+1516250198735	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483711"
+1516250203784	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/18032/slow-cooker-lemon-garlic-chicken-ii/"
+1516250441249	geckodriver	INFO	geckodriver 0.19.1
+1516250441253	geckodriver	INFO	Listening on 127.0.0.1:60569
+1516250442389	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.AMwXpIlETx31"
+1516250442884	Marionette	INFO	Enabled via --marionette
+1516250443924	Marionette	INFO	Listening on port 41953
+1516250444003	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516250444079	Marionette	DEBUG	Register listener.js for window 2147483649
+1516250444105	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516250444442	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516250444442	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+1516250446144	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/18032/slow-cooker-lemon-garlic-chicken-ii/"
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Refused to create native OpenGL context because of blacklist entry: 
+JavaScript warning: https://api.b2c.com/api/init-182h1kagypftheeqt3p.js line 1 > eval, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: 
+* Exhausted GL driver options.
+1516250447226	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1516250447226	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516250452290	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1516250452833	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/18032/slow-cooker-lemon-garlic-chicken-ii/"
+1516343538945	geckodriver	INFO	geckodriver 0.19.1
+1516343538989	geckodriver	INFO	Listening on 127.0.0.1:39283
+1516343540231	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.4WIUZsamKvI3"
+1516343541836	Marionette	INFO	Enabled via --marionette
+1516343544085	Marionette	INFO	Listening on port 43909
+1516343544218	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516343544281	Marionette	DEBUG	Register listener.js for window 2147483649
+1516343544297	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516343544673	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516343544674	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332-a/recipe.bundled.js, line 399: unreachable code after return statement
+1516343547286	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/17227/slow-cooker-chicken-stroganoff/?internalSource=streams&referringId=253&referringContentType=recipe%20hub&clickId=st_trending_s"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516343549608	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1516343549608	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1516343549608	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516343549608	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1516343550040	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483681"
+1516343550470	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483714"
+1516343550506	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483699"
+1516343552299	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483734"
+1516343553133	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483743"
+1516343553211	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483745"
+1516343553218	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483747"
+1516343557416	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/17227/slow-cooker-chicken-stroganoff/?internalSource=streams&referringId=253&referringContentType=recipe%20hub&clickId=st_trending_s"
+[Child 26564, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 26564, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 26564, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 26564, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 26564, Chrome_ChildThread] WARNING: pipe error (20): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 26564, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1516345064926	geckodriver	INFO	geckodriver 0.19.1
+1516345064929	geckodriver	INFO	Listening on 127.0.0.1:56037
+1516345066059	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.1TH9tfE1GUXe"
+1516345066542	Marionette	INFO	Enabled via --marionette
+1516345067777	Marionette	INFO	Listening on port 38847
+1516345067871	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516345067923	Marionette	DEBUG	Register listener.js for window 2147483649
+1516345067945	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516345068263	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516345068263	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+1516345070781	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/70343/slow-cooker-chicken-taco-soup/?internalSource=previously%20viewed&referringContentType=home%20page&clickId=cardslot%205"
+1516345073138	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516345073138	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1516345073143	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516345077009	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1516345077009	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1516345077010	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1516345077010	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1516345077729	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483702"
+1516345078052	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483712"
+1516345078350	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483722"
+1516345078357	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483724"
+1516345078587	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483734"
+1516345078735	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483738"
+1516345083272	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/70343/slow-cooker-chicken-taco-soup/?internalSource=previously%20viewed&referringContentType=home%20page&clickId=cardslot%205"
+1516345117425	geckodriver	INFO	geckodriver 0.19.1
+1516345117428	geckodriver	INFO	Listening on 127.0.0.1:53139
+1516345118563	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.P8Dkn55VMeIq"
+1516345119035	Marionette	INFO	Enabled via --marionette
+1516345120174	Marionette	INFO	Listening on port 43773
+1516345120275	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516345120348	Marionette	DEBUG	Register listener.js for window 2147483649
+1516345120378	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516345120848	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516345120848	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+1516345123331	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/70343/slow-cooker-chicken-taco-soup/?internalSource=previously%20viewed&referringContentType=home%20page&clickId=cardslot%205"
+1516345127644	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516345132504	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1516345132504	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1516345132504	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1516345132505	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1516345133211	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483694"
+1516345134723	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483757"
+1516345134738	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483759"
+1516345134958	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483768"
+1516345135241	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483786"
+1516345141044	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483818"
+1516345141087	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/70343/slow-cooker-chicken-taco-soup/?internalSource=previously%20viewed&referringContentType=home%20page&clickId=cardslot%205"
+1516345174483	geckodriver	INFO	geckodriver 0.19.1
+1516345174488	geckodriver	INFO	Listening on 127.0.0.1:57595
+1516345175627	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.sLnbMsX6RWFj"
+1516345176110	Marionette	INFO	Enabled via --marionette
+1516345177271	Marionette	INFO	Listening on port 46323
+1516345177343	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516345177403	Marionette	DEBUG	Register listener.js for window 2147483649
+1516345177463	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516345177828	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516345177829	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332-a/recipe.bundled.js, line 399: unreachable code after return statement
+1516345184327	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/70343/slow-cooker-chicken-taco-soup/?internalSource=previously%20viewed&referringContentType=home%20page&clickId=cardslot%205"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516345186774	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516345186774	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1516345186774	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1516345186774	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1516345187880	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483680"
+1516345187994	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483699"
+1516345188571	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483732"
+1516345189275	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483757"
+1516345189661	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483765"
+1516345189904	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483767"
+1516345189928	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483772"
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1516345194989	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483809"
+1516345195783	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483807"
+JavaScript warning: http://dco-assets.everestads.net/ics-campaign///ad-templates/global/jquery-2.0.3_edge.4.0.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1516345196906	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/70343/slow-cooker-chicken-taco-soup/?internalSource=previously%20viewed&referringContentType=home%20page&clickId=cardslot%205"
+1516345227432	geckodriver	INFO	geckodriver 0.19.1
+1516345227435	geckodriver	INFO	Listening on 127.0.0.1:37009
+1516345228566	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.EgWnkeox5cPL"
+1516345229042	Marionette	INFO	Enabled via --marionette
+1516345230161	Marionette	INFO	Listening on port 43809
+1516345230181	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516345230265	Marionette	DEBUG	Register listener.js for window 2147483649
+1516345230292	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516345230623	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516345230623	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332-a/recipe.bundled.js, line 399: unreachable code after return statement
+1516345232279	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/70343/slow-cooker-chicken-taco-soup/?internalSource=previously%20viewed&referringContentType=home%20page&clickId=cardslot%205"
+1516345238244	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1516345238982	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516345238982	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1516345238983	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1516345238984	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1516345240209	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483697"
+1516345240760	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483730"
+1516345245661	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483758"
+1516345245664	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483760"
+1516345246156	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483769"
+1516345246667	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483784"
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://dco-assets.everestads.net/ics-campaign///ad-templates/global/jquery-2.0.3_edge.4.0.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1516345257393	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483797"
+1516345258206	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/70343/slow-cooker-chicken-taco-soup/?internalSource=previously%20viewed&referringContentType=home%20page&clickId=cardslot%205"
+[Child 11904, Chrome_ChildThread] WARNING: pipe error (19): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
