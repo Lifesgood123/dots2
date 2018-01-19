@@ -2,7 +2,7 @@ from selenium import webdriver
 from bs4 import BeautifulSoup as bs
 from pyperclip import paste
 from sys import argv
-def do_stuff(url)
+def do_stuff(url):
 	browser = webdriver.Firefox()
 	browser.get(url)
 	html = browser.page_source
