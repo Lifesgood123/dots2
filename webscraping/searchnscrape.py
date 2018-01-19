@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup as bs
 from pyperclip import copy
 from os import system
 
-url="http://allrecipes.com/search/results/?wt=stir%20fry&sort=re&page=2#2"
+url="http://allrecipes.com/search/results/?wt=alfredo&sort=re&page=2#2"
 browser = webdriver.Firefox()
 browser.get(url)
 html = browser.page_source
