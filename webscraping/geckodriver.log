@@ -6747,3 +6747,530 @@ JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.
 1516489730994	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
 JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
 1516489739818	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/22228/slow-cooker-roast-beef/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2025"
+1516497051559	geckodriver	INFO	geckodriver 0.19.1
+1516497051563	geckodriver	INFO	Listening on 127.0.0.1:40283
+1516497051765	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.HhmydWKCCFDV"
+1516497052228	Marionette	INFO	Enabled via --marionette
+1516497053340	Marionette	INFO	Listening on port 34143
+1516497053388	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516497053448	Marionette	DEBUG	Register listener.js for window 2147483649
+1516497053463	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516497054375	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516497054375	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516497060849	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/search/results/?wt=alfredo&sort=re"
+1516497064116	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1516497064116	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516497064116	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1516497064117	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1516497064117	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1516497068552	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483779"
+1516497072338	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483790"
+1516497077246	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/search/results/?wt=alfredo&sort=re"
+[Child 27854, Chrome_ChildThread] WARNING: pipe error (44): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 27854, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1516497077471	geckodriver	INFO	geckodriver 0.19.1
+1516497077474	geckodriver	INFO	Listening on 127.0.0.1:38673
+1516497078610	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.9QRbUNTnhh8Q"
+1516497079178	Marionette	INFO	Enabled via --marionette
+1516497080219	Marionette	INFO	Listening on port 42371
+1516497080321	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516497081231	Marionette	DEBUG	Register listener.js for window 2147483649
+1516497081246	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516497081615	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516497081615	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+1516497087831	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/19402/quick-and-easy-alfredo-sauce/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%204"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516497091257	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1516497091258	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1516497091258	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1516497091259	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1516497092410	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1516497092950	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1516497092956	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1516497093269	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483708"
+1516497093617	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483731"
+1516497103721	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483798"
+1516497110462	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/19402/quick-and-easy-alfredo-sauce/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%204"
+1516497110738	geckodriver	INFO	geckodriver 0.19.1
+1516497110742	geckodriver	INFO	Listening on 127.0.0.1:60271
+1516497111860	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.iqAQU3QDioaz"
+1516497112392	Marionette	INFO	Enabled via --marionette
+1516497113582	Marionette	INFO	Listening on port 34505
+1516497113676	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516497113726	Marionette	DEBUG	Register listener.js for window 2147483649
+1516497113748	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516497114092	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516497114522	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+1516497121066	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/219767/buttery-alfredo-sauce/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%208"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516497125775	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516497133674	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1516497133674	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1516497133675	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1516497133675	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1516497134773	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483674"
+1516497134774	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1516497134775	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483676"
+1516497135282	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483684"
+1516497136068	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483711"
+1516497140115	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483753"
+1516497147814	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/219767/buttery-alfredo-sauce/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%208"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1516497148137	geckodriver	INFO	geckodriver 0.19.1
+1516497148140	geckodriver	INFO	Listening on 127.0.0.1:40191
+1516497149267	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.qr3zi5Rf1lWW"
+1516497149731	Marionette	INFO	Enabled via --marionette
+1516497150710	Marionette	INFO	Listening on port 46845
+1516497151036	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516497151114	Marionette	DEBUG	Register listener.js for window 2147483649
+1516497151139	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516497151520	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516497151520	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+1516497157869	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/216740/cream-cheese-alfredo-sauce/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2011"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516497159426	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1516497159427	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1516497159427	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516497159427	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1516497160431	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483672"
+1516497160435	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483673"
+1516497160437	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483674"
+1516497160788	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483694"
+1516497163807	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1516497169808	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/216740/cream-cheese-alfredo-sauce/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2011"
+1516497170150	geckodriver	INFO	geckodriver 0.19.1
+1516497170153	geckodriver	INFO	Listening on 127.0.0.1:59907
+1516497171270	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.GkaCrER0MyZQ"
+1516497171805	Marionette	INFO	Enabled via --marionette
+1516497172840	Marionette	INFO	Listening on port 46513
+1516497172902	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516497172978	Marionette	DEBUG	Register listener.js for window 2147483649
+1516497173009	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516497173337	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516497173338	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332-a/recipe.bundled.js, line 399: unreachable code after return statement
+1516497179436	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/231860/spinach-alfredo-sauce-better-than-olive-garden/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2014"
+1516497179792	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516497186492	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1516497186493	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1516497186493	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1516497186494	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1516497187387	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483687"
+1516497187712	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483714"
+1516497187719	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483716"
+1516497193726	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483750"
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1516497199040	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/231860/spinach-alfredo-sauce-better-than-olive-garden/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2014"
+1516497199308	geckodriver	INFO	geckodriver 0.19.1
+1516497199311	geckodriver	INFO	Listening on 127.0.0.1:40897
+1516497200431	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.HMLEEgkjZ1Gq"
+1516497200926	Marionette	INFO	Enabled via --marionette
+1516497201964	Marionette	INFO	Listening on port 43085
+1516497202046	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516497202119	Marionette	DEBUG	Register listener.js for window 2147483649
+1516497202155	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516497202646	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516497202646	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+1516497204345	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/11782/smoked-salmon-alfredo-sauce/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2018"
+1516497205457	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516497212243	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1516497212243	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1516497212244	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1516497212244	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1516497213933	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483708"
+1516497213937	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483710"
+1516497214018	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483698"
+1516497214360	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483743"
+1516497215710	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483721"
+1516497225147	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/11782/smoked-salmon-alfredo-sauce/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2018"
+[Child 29883, Chrome_ChildThread] WARNING: pipe error (19): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1516497225497	geckodriver	INFO	geckodriver 0.19.1
+1516497225501	geckodriver	INFO	Listening on 127.0.0.1:41893
+1516497226638	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.pKPpOKUSA0vj"
+1516497227209	Marionette	INFO	Enabled via --marionette
+1516497228198	Marionette	INFO	Listening on port 36585
+1516497228258	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516497228341	Marionette	DEBUG	Register listener.js for window 2147483649
+1516497228366	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516497229013	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516497229013	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+1516497235290	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/222138/healthier-quick-and-easy-alfredo-sauce/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2026"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516497241308	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516497241308	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1516497243931	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483673"
+1516497244874	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1516497244874	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1516497244875	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1516497244875	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1516497246863	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483685"
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1516497251757	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483751"
+1516497251766	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483753"
+1516497251769	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483755"
+1516497253779	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/222138/healthier-quick-and-easy-alfredo-sauce/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2026"
+1516497254087	geckodriver	INFO	geckodriver 0.19.1
+1516497254093	geckodriver	INFO	Listening on 127.0.0.1:51353
+1516497255242	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Z4OOqvanddSs"
+1516497255683	Marionette	INFO	Enabled via --marionette
+1516497256799	Marionette	INFO	Listening on port 46213
+1516497256866	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516497256935	Marionette	DEBUG	Register listener.js for window 2147483649
+1516497256949	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516497257302	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516497257303	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+1516497263683	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/12065/alfredo-sauce/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%202"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516497268797	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1516497268798	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1516497269270	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1516497269271	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1516497269271	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516497269272	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1516497271651	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483701"
+1516497272453	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483730"
+1516497272659	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483744"
+1516497272667	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483746"
+1516497273349	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483750"
+1516497278287	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/12065/alfredo-sauce/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%202"
+[Child 30662, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1516497278681	geckodriver	INFO	geckodriver 0.19.1
+1516497278685	geckodriver	INFO	Listening on 127.0.0.1:47295
+1516497279822	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.2P1A7zaUU39j"
+1516497280283	Marionette	INFO	Enabled via --marionette
+1516497281288	Marionette	INFO	Listening on port 33745
+1516497281353	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516497281414	Marionette	DEBUG	Register listener.js for window 2147483649
+1516497281915	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516497282249	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516497282249	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332-a/recipe.bundled.js, line 399: unreachable code after return statement
+1516497288482	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/11945/easy-alfredo-sauce-i/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%205"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516497291694	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1516497292501	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516497292501	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1516497292502	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1516497292502	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1516497294277	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483696"
+1516497294735	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483720"
+1516497294743	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483722"
+1516497294821	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483729"
+1516497294822	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483731"
+1516497295891	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483756"
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1516497301407	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/11945/easy-alfredo-sauce-i/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%205"
+1516497301693	geckodriver	INFO	geckodriver 0.19.1
+1516497301698	geckodriver	INFO	Listening on 127.0.0.1:44377
+1516497302817	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.6o2X6vU9fUgh"
+1516497303315	Marionette	INFO	Enabled via --marionette
+1516497304317	Marionette	INFO	Listening on port 33785
+1516497304336	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516497304395	Marionette	DEBUG	Register listener.js for window 2147483649
+1516497304425	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516497304775	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516497304775	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+1516497306269	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/218476/jalapeno-rosemary-alfredo/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2015"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516497307592	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516497313722	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1516497313722	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1516497313722	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1516497313723	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1516497314973	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483693"
+1516497315673	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483735"
+1516497315782	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483739"
+1516497316677	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483746"
+1516497317375	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483755"
+1516497317387	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483765"
+1516497317427	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483763"
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1516497322543	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/218476/jalapeno-rosemary-alfredo/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2015"
+1516497322926	geckodriver	INFO	geckodriver 0.19.1
+1516497322929	geckodriver	INFO	Listening on 127.0.0.1:41317
+1516497324057	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.LABDGMZwT8Kn"
+1516497324530	Marionette	INFO	Enabled via --marionette
+1516497325617	Marionette	INFO	Listening on port 44723
+1516497325705	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516497325794	Marionette	DEBUG	Register listener.js for window 2147483649
+1516497325821	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516497326208	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516497326209	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+1516497332722	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/245254/skinny-alfredo-sauce/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2019"
+1516497334731	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1516497334732	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1516497334732	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1516497334732	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1516497337217	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483681"
+1516497339121	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483699"
+1516497339135	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483703"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516497339765	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483716"
+1516497344034	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483791"
+1516497344583	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483800"
+1516497345486	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483804"
+1516497349111	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/245254/skinny-alfredo-sauce/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2019"
+1516497349409	geckodriver	INFO	geckodriver 0.19.1
+1516497349413	geckodriver	INFO	Listening on 127.0.0.1:34609
+1516497350536	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.eQFiR6xG8HAr"
+1516497351022	Marionette	INFO	Enabled via --marionette
+1516497352101	Marionette	INFO	Listening on port 39875
+1516497352153	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516497352212	Marionette	DEBUG	Register listener.js for window 2147483649
+1516497352237	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516497352629	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516497353556	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+1516497355215	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/219435/healthier-alfredo-sauce/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2023"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516497360369	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1516497360369	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1516497360369	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1516497360370	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1516497361515	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1516497361519	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483672"
+1516497361524	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483673"
+1516497361587	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483683"
+1516497362006	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483696"
+1516497364779	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483739"
+1516497364780	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483741"
+1516497368595	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/219435/healthier-alfredo-sauce/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2023"
+1516497368832	geckodriver	INFO	geckodriver 0.19.1
+1516497368836	geckodriver	INFO	Listening on 127.0.0.1:40841
+1516497369960	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.oR7AnFA8beih"
+1516497370463	Marionette	INFO	Enabled via --marionette
+1516497371457	Marionette	INFO	Listening on port 38049
+1516497371499	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516497371559	Marionette	DEBUG	Register listener.js for window 2147483649
+1516497371581	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516497372091	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516497372091	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+1516497379685	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/219965/lighter-chicken-fettuccine-alfredo/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%209"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516497382977	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516497384914	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1516497384915	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1516497384915	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1516497384915	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1516497385801	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483697"
+1516497386264	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483715"
+1516497386274	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483717"
+1516497386277	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483719"
+1516497390062	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483818"
+1516497393405	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/219965/lighter-chicken-fettuccine-alfredo/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%209"
+1516497393815	geckodriver	INFO	geckodriver 0.19.1
+1516497393819	geckodriver	INFO	Listening on 127.0.0.1:51893
+1516497394962	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.fAo3Bw7CFstz"
+1516497395466	Marionette	INFO	Enabled via --marionette
+1516497396490	Marionette	INFO	Listening on port 46699
+1516497396575	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516497396633	Marionette	DEBUG	Register listener.js for window 2147483649
+1516497396656	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516497396991	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516497396992	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332-a/recipe.bundled.js, line 399: unreachable code after return statement
+1516497399048	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/214183/quick-alfredo-sauce/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2013"
+1516497400210	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516497402839	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1516497402839	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1516497402839	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1516497402840	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1516497403884	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1516497403888	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483676"
+1516497403888	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1516497404283	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483698"
+1516497410241	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483770"
+1516497415448	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/214183/quick-alfredo-sauce/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2013"
+1516497415737	geckodriver	INFO	geckodriver 0.19.1
+1516497415740	geckodriver	INFO	Listening on 127.0.0.1:58845
+1516497416867	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.vo2kUCFE5Mvn"
+1516497417369	Marionette	INFO	Enabled via --marionette
+1516497418431	Marionette	INFO	Listening on port 38815
+1516497418504	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516497418580	Marionette	DEBUG	Register listener.js for window 2147483649
+1516497418603	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516497418984	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516497418985	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332-a/recipe.bundled.js, line 399: unreachable code after return statement
+1516497420685	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/21195/easy-alfredo-sauce-ii/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2016"
+1516497427536	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1516497427829	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1516497427829	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1516497427830	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1516497427830	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1516497429889	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483693"
+1516497430643	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483736"
+1516497430651	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483738"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516497437114	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483794"
+1516497442609	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/21195/easy-alfredo-sauce-ii/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2016"
+[Child 739, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1516497442969	geckodriver	INFO	geckodriver 0.19.1
+1516497442974	geckodriver	INFO	Listening on 127.0.0.1:58363
+1516497444093	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.araq8cBXYMRp"
+1516497444601	Marionette	INFO	Enabled via --marionette
+1516497445711	Marionette	INFO	Listening on port 41375
+1516497445812	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516497445880	Marionette	DEBUG	Register listener.js for window 2147483649
+1516497445906	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516497446246	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516497446247	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332-a/recipe.bundled.js, line 399: unreachable code after return statement
+1516497454322	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/246764/cajun-shrimp-alfredo/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2020"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516497456448	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516497457704	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1516497457705	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1516497457705	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1516497457705	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1516497458642	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483697"
+1516497459355	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483741"
+1516497459366	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483743"
+1516497459530	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483753"
+1516497461339	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483780"
+1516497461792	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483787"
+1516497463981	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/246764/cajun-shrimp-alfredo/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2020"
+1516497464270	geckodriver	INFO	geckodriver 0.19.1
+1516497464273	geckodriver	INFO	Listening on 127.0.0.1:53925
+1516497465409	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.gX5AIG4NXtA5"
+1516497465881	Marionette	INFO	Enabled via --marionette
+1516497466880	Marionette	INFO	Listening on port 41361
+1516497466930	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516497467007	Marionette	DEBUG	Register listener.js for window 2147483649
+1516497467045	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516497467443	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516497467443	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+1516497473512	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/235208/pumpkin-alfredo-sauce/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2024"
+1516497474430	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1516497474431	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516497477692	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1516497477692	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1516497477692	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1516497477692	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1516497478775	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483701"
+1516497479081	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483695"
+1516497484031	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483793"
+1516497484040	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483795"
+1516497484043	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483797"
+1516497484112	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483799"
+1516497485155	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483809"
+1516497485250	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483812"
+1516497487424	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/235208/pumpkin-alfredo-sauce/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2024"
+1516497487693	geckodriver	INFO	geckodriver 0.19.1
+1516497487697	geckodriver	INFO	Listening on 127.0.0.1:54663
+1516497488815	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.wj3vUImsmV3o"
+1516497489272	Marionette	INFO	Enabled via --marionette
+1516497490377	Marionette	INFO	Listening on port 44963
+1516497490437	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516497490499	Marionette	DEBUG	Register listener.js for window 2147483649
+1516497490523	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516497490911	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516497490912	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+1516497497531	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/22831/alfredo-sauce/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%203"
+1516497499911	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1516497501011	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516497501012	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1516497501012	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1516497501012	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1516497502169	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483676"
+1516497502518	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483696"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516497503391	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483703"
+1516497507082	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483748"
+1516497507086	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483750"
+1516497509145	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483770"
+1516497514251	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/22831/alfredo-sauce/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%203"
+1516497514527	geckodriver	INFO	geckodriver 0.19.1
+1516497514533	geckodriver	INFO	Listening on 127.0.0.1:35437
+1516497515663	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.bnyLaGM4of7d"
+1516497516090	Marionette	INFO	Enabled via --marionette
+1516497517144	Marionette	INFO	Listening on port 40339
+1516497517173	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516497517253	Marionette	DEBUG	Register listener.js for window 2147483649
+1516497517282	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516497517634	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516497517634	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+1516497519723	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/237995/better-than-olive-garden-alfredo-sauce/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2010"
+1516497522686	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516497525500	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1516497525501	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1516497525501	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1516497525502	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1516497527179	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483697"
+1516497527282	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483711"
+1516497527799	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483745"
+1516497528407	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483760"
+1516497533024	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483778"
+1516497533026	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483786"
+1516497533042	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483784"
+1516497533858	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/237995/better-than-olive-garden-alfredo-sauce/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2010"
+1516497534199	geckodriver	INFO	geckodriver 0.19.1
+1516497534202	geckodriver	INFO	Listening on 127.0.0.1:58353
+1516497535327	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.m809jRvIoZdB"
+1516497535785	Marionette	INFO	Enabled via --marionette
+1516497536965	Marionette	INFO	Listening on port 45601
+1516497537068	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516497537135	Marionette	DEBUG	Register listener.js for window 2147483649
+1516497537160	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516497537523	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516497537524	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+1516497539048	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/254682/hacked-alfredo-sauce/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2021"
+1516497540306	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516497544409	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483674"
+1516497544410	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483676"
+1516497546447	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1516497546447	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1516497546447	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1516497546448	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1516497547577	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483709"
+1516497547729	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483687"
+1516497547963	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483727"
+1516497550346	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483774"
+1516497550351	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483783"
+1516497550363	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483781"
+1516497550449	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483785"
+1516497554544	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/254682/hacked-alfredo-sauce/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2021"
+1516497554863	geckodriver	INFO	geckodriver 0.19.1
+1516497554866	geckodriver	INFO	Listening on 127.0.0.1:48851
+1516497555990	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.YttG9A7yPmIS"
+1516497556440	Marionette	INFO	Enabled via --marionette
+1516497557527	Marionette	INFO	Listening on port 36055
+1516497557602	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516497557679	Marionette	DEBUG	Register listener.js for window 2147483649
+1516497557707	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516497558110	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516497558110	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://js01.media-allrecipes.com/assets/deployables/v-1.103.0.1332/recipe.bundled.js, line 399: unreachable code after return statement
+1516497566326	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://allrecipes.com/recipe/241368/smoked-salmon-and-artichoke-in-alfredo-sauce/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2025"
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1516497569090	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516497569090	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1516497569091	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1516497569091	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1516497569801	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483681"
+1516497570162	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483697"
+1516497570543	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483727"
+1516497570554	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483729"
+1516497571537	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483746"
+1516497571587	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483748"
+1516497571588	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483750"
+1516497576077	Marionette	DEBUG	Received DOM event "pageshow" for "http://allrecipes.com/recipe/241368/smoked-salmon-and-artichoke-in-alfredo-sauce/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2025"

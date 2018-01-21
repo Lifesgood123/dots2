@@ -1,4 +1,4 @@
-xvfb-run python searchnscrape.py
+python full-on-scrappy-goodness.py
 cd .. 
 git add *
 git commit -m "RECIPE SCRAPPER OFFICIALLY IN DEVELOPMENT"
