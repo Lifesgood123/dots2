@@ -1,23 +1,24 @@
 from math import sqrt as sroot
 from fractions import Fraction
 from random import randint
+import pylab
+import numpy
 
-def f(a, b, c, x):
+
+def f(x):
     y = (a*(x**2)+(b*x)+c)
-    print("f(%d) = %d \n " % (x, y))
     return y
 
-def get_max_min(a, b, c):
+def get_max_min():
     h = float((-1*b)/(2*a))
-    k = f(a, b, c, h)
+    k = f(h)
     if a < 0:
         minormax = "max"
     else:
         minormax = "minimum"
-    print("%s is (%r, %r) \n " % (minormax, h, k))
 
 
-def get_x_int(a, b, c, i):
+def get_x_int(i):
     if (b**2)-(4*a*c) < 0:
         print("""
         roots aren't real, Now this will crash
@@ -37,18 +38,17 @@ a = float(input("a: "))
 b = float(input("b: "))
 c = float(input("c: "))
 
-get_max_min(a, b, c)
-xint1 = str(Fraction((get_x_int(a, b, c, 1))))
-xint2 = str(Fraction((get_x_int(a, b, c, 0))))
-print ("x intercepts  = %s, %s \n" % (xint1, xint2))
+print(get_max_min())
+print(get_x_int(1))
+print(get_x_int(0))
+xint1 = str(Fraction((get_x_int(1))))
+xint2 = str(Fraction((get_x_int(0))))
 print("I/O check?")
 answer = input(">")
+y = []
+x = numpy.linspace(-15,15,100)
+for i in x:
+    y.append(f(i))
 
-if input("Random integers? ") == "y":
-    numbers = [randint(1, 10), randint(11, 100), randint(101, 1000), randint(1001, 10000)]
-    for i in numbers:
-        f(a, b, c, i)
-while answer == "y":
-    x = float(input("f(?)"))
-    y = f(a, b, c, x)
-exit
+pylab.plot(x,y)
+pylab.show()

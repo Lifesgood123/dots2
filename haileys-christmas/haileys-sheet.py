@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup as bs
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 from random import randint
+import twittcher
 
 #setting up sheets api
 scope = ['https://spreadsheets.google.com/feeds']
@@ -24,3 +25,6 @@ def reset():
 def use(key):
 	keys = sheet.col_values(2)
 	row = keys.index(key) + 1
+
+def check():
+

@@ -11,10 +11,7 @@ def do_stuff(url):
 	title = soup.find("h1",{"class":"recipe-summary__h1"})
 	file = open("../recipes/" + title.text,"w")
 	print(title)
-	ingrid = soup.findAll("li", {"class":"checkList__line"})
-	for i in ingrid:
-		if len(i.findAll("div", {"class":"offer-container"})) > 0:
-			ingrid.pop(ingrid.index(i))
+	ingrid = soup.findAll("span", {"class":"recipe-ingred_txt added"})
 	directions = soup.find("ol",{"class":"list-numbers recipe-directions__list"})
 	stuff = directions.findAll("li",{"class":"step"})
 	for i in ingrid:
@@ -35,7 +32,7 @@ def do_stuff(url):
 		except:
 			print("meh")
 def search():
-	url="http://allrecipes.com/search/results/?wt="+ input("search terms> ") +"&sort=re&page=2#2"
+	url="http://allrecipes.com/search/results/?wt="+ input("search terms> ") + "&sort=re"
 	browser = webdriver.Firefox()
 	browser.get(url)
 	html = browser.page_source
