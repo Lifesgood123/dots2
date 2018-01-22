@@ -1,9 +1,17 @@
+#!/usr/bin/python
 from math import sqrt as sroot
 from fractions import Fraction
 from random import randint
 import pylab
 import numpy
+import argparse
+parser = argparse.ArgumentParser()
+parser.add_argument("a", type=int)
+parser.add_argument("b", type=int)
+parser.add_argument("c", type=int)
+parser.add_argument("-g", "--graph", help="display graph of function", action="store_true")
 
+args = parser.parse_args()
 
 def f(x):
     y = (a*(x**2)+(b*x)+c)
@@ -19,11 +27,6 @@ def get_max_min():
 
 
 def get_x_int(i):
-    if (b**2)-(4*a*c) < 0:
-        print("""
-        roots aren't real, Now this will crash
-        """)
-        input(">")
     rooty = sroot(((b**2)-4*a*c))
     root1 = (-b + rooty)/(2*a)
     root2 = (-b - rooty)/(2*a)
@@ -32,23 +35,32 @@ def get_x_int(i):
     elif i == 0:
         return root2
     else:
-        exit
-
-a = float(input("a: "))
-b = float(input("b: "))
-c = float(input("c: "))
+            exit
+a = float(args.a)
+b = float(args.b)
+c = float(args.c)
 
 print(get_max_min())
-print(get_x_int(1))
-print(get_x_int(0))
-xint1 = str(Fraction((get_x_int(1))))
-xint2 = str(Fraction((get_x_int(0))))
+try:
+    print(get_x_int(1))
+    print(get_x_int(0))
+    xint1 = str(Fraction((get_x_int(1))))
+    xint2 = str(Fraction((get_x_int(0))))
+except: 
+    print("roots aren't real")
 print("I/O check?")
 answer = input(">")
+while answer == 'y':
+    stuff = float(input("> "))
+    print(f(stuff))
+    answer = input("again? >")
+
+
+
 y = []
-x = numpy.linspace(-15,15,100)
+x = numpy.linspace((150* -1), 150, 100)
 for i in x:
     y.append(f(i))
-
-pylab.plot(x,y)
-pylab.show()
+if args.graph:
+    pylab.plot(x,y)
+    pylab.show()
