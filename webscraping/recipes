@@ -1,7 +1,6 @@
 #!/bin/pyhton
 from selenium import webdriver
 from bs4 import BeautifulSoup as bs
-from pyperclip import paste
 import argparse
 parser = argparse.ArgumentParser()
 parser.add_argument("search_terms")
