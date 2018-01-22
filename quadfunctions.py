@@ -10,6 +10,7 @@ parser.add_argument("a", type=int)
 parser.add_argument("b", type=int)
 parser.add_argument("c", type=int)
 parser.add_argument("-g", "--graph", help="display graph of function", action="store_true")
+parser.add_argument("-v", "--verbose", help="display more information", action='store_true')
 
 args = parser.parse_args()
 
@@ -28,6 +29,8 @@ def get_max_min():
 
 def get_x_int(i):
     rooty = sroot(((b**2)-4*a*c))
+    if args.verbose:
+        print(rooty)
     root1 = (-b + rooty)/(2*a)
     root2 = (-b - rooty)/(2*a)
     if i == 1:

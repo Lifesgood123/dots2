@@ -1,4 +1,4 @@
-#!/bin/pyhton
+#!/usr/bin/pyhton
 from selenium import webdriver
 from bs4 import BeautifulSoup as bs
 import argparse
