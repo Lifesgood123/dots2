@@ -37,6 +37,7 @@ def do_stuff(url):
 
 		except:
 			print("meh")
+	file.close()
 def search():
 	url="http://allrecipes.com/search/results/?wt="+ args.search_terms+ "&sort=re"
 	browser = webdriver.Firefox()
@@ -53,10 +54,11 @@ def search():
 			listt.append(i.h3.find("a").get('href'))
 		except:
 			continue
+	print(listt)
 	for i in listt:
-		new = head + i
+		new = i
 		links.append(new)
-
+		print(links)
 	for i in links:
 		do_stuff(i)
 search()
