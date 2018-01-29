@@ -9609,3 +9609,851 @@ JavaScript error: http://adadvisor.net/adscores/g.js?sid=9276253823, line 1: Syn
 1517092963616	geckodriver	INFO	geckodriver 0.19.1
 1517092963631	geckodriver	INFO	Listening on 127.0.0.1:36191
 1517092985975	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.g6cPYrYy6apa"
+1517186294579	geckodriver	INFO	geckodriver 0.19.1
+1517186294598	geckodriver	INFO	Listening on 127.0.0.1:51797
+1517186295950	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Cqqkgb3uo5vu"
+1517186296650	Marionette	INFO	Enabled via --marionette
+1517186298195	Marionette	INFO	Listening on port 38357
+1517186298290	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 14038, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517186312325	geckodriver	INFO	geckodriver 0.19.1
+1517186312328	geckodriver	INFO	Listening on 127.0.0.1:48351
+1517186313500	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.C4cjoZZXOdv0"
+1517186314055	Marionette	INFO	Enabled via --marionette
+1517186315276	Marionette	INFO	Listening on port 41325
+1517186315319	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+JavaScript warning: http://vidstat.taboola.com/vpaid/vPlayer/player/v8.6.1/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: http://vidstat.taboola.com/vpaid/vPlayer/player/v8.6.1/OvaMediaPlayer.js, line 3: unreachable code after return statement
+[Child 14296, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517186336585	geckodriver	INFO	geckodriver 0.19.1
+1517186336589	geckodriver	INFO	Listening on 127.0.0.1:40679
+1517186337706	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.SxYLoAv0otgI"
+1517186338211	Marionette	INFO	Enabled via --marionette
+1517186339514	Marionette	INFO	Listening on port 40727
+1517186340149	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1517186356108	geckodriver	INFO	geckodriver 0.19.1
+1517186356112	geckodriver	INFO	Listening on 127.0.0.1:34775
+1517186357252	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Xn1DCC4qIAte"
+1517186357740	Marionette	INFO	Enabled via --marionette
+1517186359065	Marionette	INFO	Listening on port 36089
+1517186359703	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+JavaScript warning: http://vidstat.taboola.com/vpaid/vPlayer/player/v8.6.1/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: http://vidstat.taboola.com/vpaid/vPlayer/player/v8.6.1/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+[Child 15167, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517186388625	geckodriver	INFO	geckodriver 0.19.1
+1517186388629	geckodriver	INFO	Listening on 127.0.0.1:41487
+1517186389804	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.vBdW5Y679DcB"
+1517186390233	Marionette	INFO	Enabled via --marionette
+1517186391510	Marionette	INFO	Listening on port 35141
+1517186391628	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+JavaScript warning: http://vidstat.taboola.com/vpaid/vPlayer/player/v8.6.1/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: http://vidstat.taboola.com/vpaid/vPlayer/player/v8.6.1/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+1517186424993	geckodriver	INFO	geckodriver 0.19.1
+1517186424999	geckodriver	INFO	Listening on 127.0.0.1:40787
+1517186426129	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.oYzXXFehGssr"
+1517186426588	Marionette	INFO	Enabled via --marionette
+1517186427837	Marionette	INFO	Listening on port 37389
+1517186427955	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+JavaScript warning: http://vidstat.taboola.com/vpaid/vPlayer/player/v8.6.1/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: http://vidstat.taboola.com/vpaid/vPlayer/player/v8.6.1/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript warning: http://vidstat.taboola.com/vpaid/vPlayer/player/v8.6.1/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: http://vidstat.taboola.com/vpaid/vPlayer/player/v8.6.1/OvaMediaPlayer.js, line 3: unreachable code after return statement
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x100037,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x100037,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x100027,name=PBackground::Msg_PHttpBackgroundChannelConstructor) Channel error: cannot send/recv
+
+[Child 16116, Chrome_ChildThread] WARNING: pipe error (19): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 16116, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517186460633	geckodriver	INFO	geckodriver 0.19.1
+1517186460635	geckodriver	INFO	Listening on 127.0.0.1:34777
+1517186461766	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.AvCtwIM0kT1p"
+1517186462238	Marionette	INFO	Enabled via --marionette
+1517186463376	Marionette	INFO	Listening on port 34303
+1517186464053	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 16590, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 16590, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 16590, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 16590, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 16590, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 16590, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 16590, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 16590, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 16590, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 16590, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 16590, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 16590, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 16590, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 16590, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 16590, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517186477567	geckodriver	INFO	geckodriver 0.19.1
+1517186477570	geckodriver	INFO	Listening on 127.0.0.1:44525
+1517186478694	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.gq5Onz4QeNZD"
+1517186479218	Marionette	INFO	Enabled via --marionette
+1517186480708	Marionette	INFO	Listening on port 44491
+1517186480807	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+JavaScript warning: https://allrecipes.groceryserver.com/groceryserver/target-dwa-sdu-300x250/gallery-scripts.jsp?chng=x3, line 4098: unreachable code after return statement
+JavaScript warning: http://vidstat.taboola.com/vpaid/vPlayer/player/v8.6.1/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: http://vidstat.taboola.com/vpaid/vPlayer/player/v8.6.1/OvaMediaPlayer.js, line 3: unreachable code after return statement
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 17024, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 16973, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 16973, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517186498444	geckodriver	INFO	geckodriver 0.19.1
+1517186498447	geckodriver	INFO	Listening on 127.0.0.1:54437
+1517186499577	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.1LSthVyNSxS3"
+1517186500019	Marionette	INFO	Enabled via --marionette
+1517186501413	Marionette	INFO	Listening on port 36529
+1517186501489	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+[Child 17314, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 17314, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517186510245	geckodriver	INFO	geckodriver 0.19.1
+1517186510248	geckodriver	INFO	Listening on 127.0.0.1:49483
+1517186511392	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.RqYdDD7oYfZ4"
+1517186511815	Marionette	INFO	Enabled via --marionette
+1517186513471	Marionette	INFO	Listening on port 46533
+1517186513512	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+JavaScript warning: http://vidstat.taboola.com/vpaid/vPlayer/player/v8.6.1/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: http://vidstat.taboola.com/vpaid/vPlayer/player/v8.6.1/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+[Child 17622, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517186540273	geckodriver	INFO	geckodriver 0.19.1
+1517186540276	geckodriver	INFO	Listening on 127.0.0.1:57963
+1517186541439	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.L56dgOgnETlc"
+1517186541887	Marionette	INFO	Enabled via --marionette
+1517186543167	Marionette	INFO	Listening on port 34843
+1517186543265	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+JavaScript warning: https://allrecipes.groceryserver.com/groceryserver/target-dwa-sdu-300x250/gallery-scripts.jsp?chng=x3, line 4098: unreachable code after return statement
+JavaScript warning: http://vidstat.taboola.com/vpaid/vPlayer/player/v8.6.1/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: http://vidstat.taboola.com/vpaid/vPlayer/player/v8.6.1/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+[Child 18072, Chrome_ChildThread] WARNING: pipe error (21): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517186576776	geckodriver	INFO	geckodriver 0.19.1
+1517186576781	geckodriver	INFO	Listening on 127.0.0.1:34787
+1517186577917	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.fVXsp9rbVSkd"
+1517186578360	Marionette	INFO	Enabled via --marionette
+1517186579563	Marionette	INFO	Listening on port 42181
+1517186580593	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1517186604217	geckodriver	INFO	geckodriver 0.19.1
+1517186604220	geckodriver	INFO	Listening on 127.0.0.1:43123
+1517186605359	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.XtOIdB2OYNHo"
+1517186605871	Marionette	INFO	Enabled via --marionette
+1517186607199	Marionette	INFO	Listening on port 40651
+1517186608722	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+JavaScript warning: https://allrecipes.groceryserver.com/groceryserver/target-dwa-sdu-300x250/gallery-scripts.jsp?chng=x3, line 4098: unreachable code after return statement
+1517186630678	geckodriver	INFO	geckodriver 0.19.1
+1517186630681	geckodriver	INFO	Listening on 127.0.0.1:58151
+1517186631804	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.bM7Fro1i90aC"
+1517186632235	Marionette	INFO	Enabled via --marionette
+1517186633488	Marionette	INFO	Listening on port 37665
+1517186634765	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+JavaScript warning: http://vidstat.taboola.com/vpaid/vPlayer/player/v8.6.1/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: http://vidstat.taboola.com/vpaid/vPlayer/player/v8.6.1/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+[Child 19383, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 19383, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517186668792	geckodriver	INFO	geckodriver 0.19.1
+1517186668795	geckodriver	INFO	Listening on 127.0.0.1:57083
+1517186669936	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.EekYRhV9TOIA"
+1517186670369	Marionette	INFO	Enabled via --marionette
+1517186671575	Marionette	INFO	Listening on port 39553
+1517186671652	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1517186691570	geckodriver	INFO	geckodriver 0.19.1
+1517186691573	geckodriver	INFO	Listening on 127.0.0.1:46977
+1517186692715	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.a8wCaSg64FKh"
+1517186693137	Marionette	INFO	Enabled via --marionette
+1517186694347	Marionette	INFO	Listening on port 35139
+1517186695546	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1517186707518	geckodriver	INFO	geckodriver 0.19.1
+1517186707521	geckodriver	INFO	Listening on 127.0.0.1:53317
+1517186708649	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.96RMpKGOFvBz"
+1517186709201	Marionette	INFO	Enabled via --marionette
+1517186710289	Marionette	INFO	Listening on port 38913
+1517186711546	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1517186731033	geckodriver	INFO	geckodriver 0.19.1
+1517186731036	geckodriver	INFO	Listening on 127.0.0.1:33237
+1517186732155	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.2FLatktbd7zt"
+1517186732655	Marionette	INFO	Enabled via --marionette
+1517186733820	Marionette	INFO	Listening on port 34675
+1517186734746	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+JavaScript warning: http://vidstat.taboola.com/vpaid/vPlayer/player/v8.6.1/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: http://vidstat.taboola.com/vpaid/vPlayer/player/v8.6.1/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+[Child 21031, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 21031, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517186776398	geckodriver	INFO	geckodriver 0.19.1
+1517186776404	geckodriver	INFO	Listening on 127.0.0.1:59901
+1517186777554	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.v7ddJ2jirrNj"
+1517186778013	Marionette	INFO	Enabled via --marionette
+1517186779247	Marionette	INFO	Listening on port 37929
+1517186780596	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+[Child 21630, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 21630, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517186793244	geckodriver	INFO	geckodriver 0.19.1
+1517186793248	geckodriver	INFO	Listening on 127.0.0.1:53745
+1517186794372	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.BvIodgU4Csby"
+1517186794860	Marionette	INFO	Enabled via --marionette
+1517186796056	Marionette	INFO	Listening on port 45279
+1517186796311	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+[Child 21941, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 21941, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517186809072	geckodriver	INFO	geckodriver 0.19.1
+1517186809075	geckodriver	INFO	Listening on 127.0.0.1:41053
+1517186810201	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Q9NnwcBv8F0q"
+1517186810625	Marionette	INFO	Enabled via --marionette
+1517186811831	Marionette	INFO	Listening on port 37857
+1517186812750	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1517195574137	geckodriver	INFO	geckodriver 0.19.1
+1517195574145	geckodriver	INFO	Listening on 127.0.0.1:41785
+1517195575398	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.yAxqgvKYaCUb"
+1517195576205	Marionette	INFO	Enabled via --marionette
+1517195578476	Marionette	INFO	Listening on port 45299
+1517195578529	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://vidstat.taboola.com/vpaid/vPlayer/player/v8.6.1/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: http://vidstat.taboola.com/vpaid/vPlayer/player/v8.6.1/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: http://vidstat.taboola.com/vpaid/vPlayer/player/v8.6.1/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: http://vidstat.taboola.com/vpaid/vPlayer/player/v8.6.1/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+[Child 29083, Chrome_ChildThread] WARNING: pipe error (19): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 29083, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 29083, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517195630209	geckodriver	INFO	geckodriver 0.19.1
+1517195630221	geckodriver	INFO	Listening on 127.0.0.1:53767
+1517195631709	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.yzujoBKLYfFR"
+1517195633666	Marionette	INFO	Enabled via --marionette
+1517195639434	Marionette	INFO	Listening on port 43301
+1517195639902	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+JavaScript error: http://adadvisor.net/adscores/g.js?sid=9276253823, line 1: SyntaxError: expected expression, got '<'
+JavaScript warning: http://vidstat.taboola.com/vpaid/vPlayer/player/v8.6.1/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: http://vidstat.taboola.com/vpaid/vPlayer/player/v8.6.1/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 29975, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 29867, Chrome_ChildThread] WARNING: pipe error (21): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 29867, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517195671590	geckodriver	INFO	geckodriver 0.19.1
+1517195671601	geckodriver	INFO	Listening on 127.0.0.1:36701
+1517195673088	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.d512D9mNk0Md"
+1517195675254	Marionette	INFO	Enabled via --marionette
+1517195679071	Marionette	INFO	Listening on port 42349
+1517195679116	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+JavaScript warning: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-6983307289689206&output=html&h=90&slotname=3221030101&adk=2111176477&adf=2751417943&w=728&loeid=38893312&format=728x90&url=http%3A%2F%2Fallrecipes.com%2Frecipe%2F93240%2Fgreat-aunt-ninas-noodles-and-chicken%2F%3FinternalSource%3Dhub%2520recipe%26referringContentType%3Dsearch%2520results%26clickId%3Dcardslot%25208&ea=0&flash=0&wgl=1&adsid=NT&dt=1517195692659&bpp=29&bdt=1821&fdt=43&idt=407&shv=r20180122&cbv=r20170110&saldr=aa&correlator=2541000302286&frm=23&ga_vid=1913780143.1517195693&ga_sid=1517195693&ga_hid=254076418&ga_fc=0&pv=2&icsg=2&nhd=2&dssz=2&mdo=0&mso=0&u_tz=-300&u_his=1&u_java=0&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_nplug=0&u_nmime=0&adx=437&ady=3200&biw=1907&bih=980&isw=728&ish=90&ifk=3743832673&scr_x=0&scr_y=0&eid=21061122%2C38893302%2C62710011%2C62710014%2C191880502%2C370204013&oid=3&nmo=1&rx=0&eae=2&fc=528&brdim=%2C%2C0%2C22%2C1920%2C0%2C1916%2C1054%2C728%2C90&vis=1&rsz=o%7Co%7CoeEbr%7C&abl=NS&ppjl=f&pfx=0&fu=20&bc=1&ifi=1&dtd=485, line 22: unreachable code after return statement
+JavaScript warning: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-6983307289689206&output=html&h=90&slotname=3221030101&adk=2111176477&adf=2751417943&w=728&loeid=38893312&format=728x90&url=http%3A%2F%2Fallrecipes.com%2Frecipe%2F93240%2Fgreat-aunt-ninas-noodles-and-chicken%2F%3FinternalSource%3Dhub%2520recipe%26referringContentType%3Dsearch%2520results%26clickId%3Dcardslot%25208&ea=0&flash=0&wgl=1&adsid=NT&dt=1517195692659&bpp=29&bdt=1821&fdt=43&idt=407&shv=r20180122&cbv=r20170110&saldr=aa&correlator=2541000302286&frm=23&ga_vid=1913780143.1517195693&ga_sid=1517195693&ga_hid=254076418&ga_fc=0&pv=2&icsg=2&nhd=2&dssz=2&mdo=0&mso=0&u_tz=-300&u_his=1&u_java=0&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_nplug=0&u_nmime=0&adx=437&ady=3200&biw=1907&bih=980&isw=728&ish=90&ifk=3743832673&scr_x=0&scr_y=0&eid=21061122%2C38893302%2C62710011%2C62710014%2C191880502%2C370204013&oid=3&nmo=1&rx=0&eae=2&fc=528&brdim=%2C%2C0%2C22%2C1920%2C0%2C1916%2C1054%2C728%2C90&vis=1&rsz=o%7Co%7CoeEbr%7C&abl=NS&ppjl=f&pfx=0&fu=20&bc=1&ifi=1&dtd=485, line 22: unreachable code after return statement
+[Child 30448, Chrome_ChildThread] WARNING: pipe error (44): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 30448, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 30448, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517195699207	geckodriver	INFO	geckodriver 0.19.1
+1517195699218	geckodriver	INFO	Listening on 127.0.0.1:57801
+1517195700711	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.eatYhV1JZldK"
+1517195702835	Marionette	INFO	Enabled via --marionette
+1517195706365	Marionette	INFO	Listening on port 35551
+1517195706426	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+JavaScript error: http://adadvisor.net/adscores/g.js?sid=9276253823, line 1: SyntaxError: expected expression, got '<'
+Sandbox: Unexpected EOF, op 0 flags 00 path /sys/devices/system/cpu/present
+1517195728233	geckodriver	INFO	geckodriver 0.19.1
+[Child 30840, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517195728461	geckodriver	INFO	Listening on 127.0.0.1:51461
+1517195729727	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.XthEmfWrVV6D"
+1517195731860	Marionette	INFO	Enabled via --marionette
+1517195736120	Marionette	INFO	Listening on port 35011
+1517195736216	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517195746844	geckodriver	INFO	geckodriver 0.19.1
+1517195746857	geckodriver	INFO	Listening on 127.0.0.1:46949
+1517195748395	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.CJFE2f6xdoe8"
+1517195750631	Marionette	INFO	Enabled via --marionette
+1517195754984	Marionette	INFO	Listening on port 38751
+1517195755076	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+Sandbox: Unexpected EOF, op 0 flags 00 path /sys/devices/system/cpu/present
+[Child 31676, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517195772477	geckodriver	INFO	geckodriver 0.19.1
+1517195772489	geckodriver	INFO	Listening on 127.0.0.1:56819
+1517195774071	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.RbIYGSnLzSK3"
+1517195776285	Marionette	INFO	Enabled via --marionette
+1517195779906	Marionette	INFO	Listening on port 46165
+1517195779965	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+JavaScript error: http://adadvisor.net/adscores/g.js?sid=9276253823, line 1: SyntaxError: expected expression, got '<'
+JavaScript warning: http://vidstat.taboola.com/vpaid/vPlayer/player/v8.6.1/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: http://vidstat.taboola.com/vpaid/vPlayer/player/v8.6.1/OvaMediaPlayer.js, line 3: unreachable code after return statement
+[Child 32101, Chrome_ChildThread] WARNING: pipe error (19): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 32101, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517195803345	geckodriver	INFO	geckodriver 0.19.1
+1517195803356	geckodriver	INFO	Listening on 127.0.0.1:47073
+1517195805066	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.gfI20N4gruC5"
+1517195807254	Marionette	INFO	Enabled via --marionette
+1517195811336	Marionette	INFO	Listening on port 44911
+1517195811606	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+JavaScript error: http://adadvisor.net/adscores/g.js?sid=9276253823, line 1: SyntaxError: expected expression, got '<'
+JavaScript warning: http://vidstat.taboola.com/vpaid/vPlayer/player/v8.6.1/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: http://vidstat.taboola.com/vpaid/vPlayer/player/v8.6.1/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 383: TypeError: this[Y] is undefined
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 383: TypeError: this[Y] is undefined
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript warning: http://vidstat.taboola.com/vpaid/vPlayer/player/v8.6.1/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: http://vidstat.taboola.com/vpaid/vPlayer/player/v8.6.1/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript warning: http://vidstat.taboola.com/vpaid/vPlayer/player/v8.6.1/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: http://vidstat.taboola.com/vpaid/vPlayer/player/v8.6.1/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript warning: http://dco-assets.everestads.net/ics-campaign///ad-templates/global/jquery-2.0.3_edge.4.0.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+[Child 32559, Chrome_ChildThread] WARNING: pipe error (19): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 32559, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 32559, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517196068292	geckodriver	INFO	geckodriver 0.19.1
+1517196068304	geckodriver	INFO	Listening on 127.0.0.1:42781
+1517196069914	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.KFZoaIGEEUku"
+1517196071995	Marionette	INFO	Enabled via --marionette
+1517196075906	Marionette	INFO	Listening on port 33809
+1517196076144	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+JavaScript warning: http://dco-assets.everestads.net/ics-campaign///ad-templates/global/jquery-2.0.3_edge.4.0.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 2820, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 2820, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517196100803	geckodriver	INFO	geckodriver 0.19.1
+1517196100815	geckodriver	INFO	Listening on 127.0.0.1:36999
+1517196102379	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.PCdZc5vf5FOE"
+1517196104501	Marionette	INFO	Enabled via --marionette
+1517196108131	Marionette	INFO	Listening on port 35219
+1517196108241	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+JavaScript error: http://adadvisor.net/adscores/g.js?sid=9276253823, line 1: SyntaxError: expected expression, got '<'
+JavaScript warning: http://vidstat.taboola.com/vpaid/vPlayer/player/v8.6.1/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: http://vidstat.taboola.com/vpaid/vPlayer/player/v8.6.1/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 383: TypeError: this[Y] is undefined
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 383: TypeError: this[Y] is undefined
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 383: TypeError: this[Y] is undefined
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 383: TypeError: this[Y] is undefined
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 383: TypeError: this[Y] is undefined
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 383: TypeError: this[Y] is undefined
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 383: TypeError: this[Y] is undefined
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 383: TypeError: this[Y] is undefined
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 383: TypeError: this[Y] is undefined
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 383: TypeError: this[Y] is undefined
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 383: TypeError: this[Y] is undefined
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 383: TypeError: this[Y] is undefined
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 383: TypeError: this[Y] is undefined
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 383: TypeError: this[Y] is undefined
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 383: TypeError: this[Y] is undefined
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 383: TypeError: this[Y] is undefined
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 383: TypeError: this[Y] is undefined
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 383: TypeError: this[Y] is undefined
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 383: TypeError: this[Y] is undefined
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 383: TypeError: this[Y] is undefined
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 383: TypeError: this[Y] is undefined
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 383: TypeError: this[Y] is undefined
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 383: TypeError: this[Y] is undefined
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 383: TypeError: this[Y] is undefined
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 383: TypeError: this[Y] is undefined
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 383: TypeError: this[Y] is undefined
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 383: TypeError: this[Y] is undefined
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 383: TypeError: this[Y] is undefined
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 383: TypeError: this[Y] is undefined
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 383: TypeError: this[Y] is undefined
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 383: TypeError: this[Y] is undefined
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 383: TypeError: this[Y] is undefined
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 383: TypeError: this[Y] is undefined
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 383: TypeError: this[Y] is undefined
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 383: TypeError: this[Y] is undefined
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 383: TypeError: this[Y] is undefined
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 383: TypeError: this[Y] is undefined
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 383: TypeError: this[Y] is undefined
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 383: TypeError: this[Y] is undefined
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: http://js.moatads.com/aolonebuyervideoflashint2012897410256/moatvideo.js#_moatApi62419729, line 495: TypeError: t.dcsx.engn is not a function
+[Child 3263, Chrome_ChildThread] WARNING: pipe error (19): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 3263, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517196271031	geckodriver	INFO	geckodriver 0.19.1
+1517196271042	geckodriver	INFO	Listening on 127.0.0.1:34885
+1517196272623	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.b2Jvg3RZUIOW"
+1517196274988	Marionette	INFO	Enabled via --marionette
+1517196279434	Marionette	INFO	Listening on port 40131
+1517196279525	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x100027,name=PBackground::Msg_PHttpBackgroundChannelConstructor) Channel error: cannot send/recv
+
+1517196307273	geckodriver	INFO	geckodriver 0.19.1
+1517196307285	geckodriver	INFO	Listening on 127.0.0.1:56265
+1517196308908	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.FeYJmOHCPjxu"
+1517196311257	Marionette	INFO	Enabled via --marionette
+1517196314852	Marionette	INFO	Listening on port 36113
+1517196314962	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+JavaScript warning: http://tpc.googlesyndication.com/safeframe/1-0-15/html/container.html, line 31: unreachable code after return statement
+JavaScript warning: http://tpc.googlesyndication.com/safeframe/1-0-15/html/container.html, line 31: unreachable code after return statement
+[Child 5506, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517196338271	geckodriver	INFO	geckodriver 0.19.1
+1517196338284	geckodriver	INFO	Listening on 127.0.0.1:48539
+1517196339868	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.zWMUNK4ReEKn"
+1517196341992	Marionette	INFO	Enabled via --marionette
+1517196345751	Marionette	INFO	Listening on port 43721
+1517196345843	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1517196359122	geckodriver	INFO	geckodriver 0.19.1
+1517196359134	geckodriver	INFO	Listening on 127.0.0.1:52739
+1517196360708	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.MceAqm5qPnCf"
+1517196362731	Marionette	INFO	Enabled via --marionette
+1517196366240	Marionette	INFO	Listening on port 36205
+1517196366282	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+JavaScript warning: http://aax-us-east.amazon-adsystem.com/e/dtb/impi?b=ItRg_7B6SkNLhjTdtbVin7kAAAFhP_N1VgEAAA12AfY8LeY&pp=ekycjk&rnd=9556731411517196378137&p=5wt1c0&crid=89802597, line 24: unreachable code after return statement
+JavaScript warning: http://aax-us-east.amazon-adsystem.com/e/dtb/impi?b=ItRg_7B6SkNLhjTdtbVin7kAAAFhP_N1VgEAAA12AfY8LeY&pp=ekycjk&rnd=9556731411517196378137&p=5wt1c0&crid=89802597, line 24: unreachable code after return statement
+[Child 6295, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 6295, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517196392621	geckodriver	INFO	geckodriver 0.19.1
+1517196392632	geckodriver	INFO	Listening on 127.0.0.1:44087
+1517196394190	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.kMO8CL2UGCUS"
+1517196396272	Marionette	INFO	Enabled via --marionette
+1517196400400	Marionette	INFO	Listening on port 43851
+1517196400425	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+JavaScript warning: http://vidstat.taboola.com/vpaid/vPlayer/player/v8.6.1/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: http://vidstat.taboola.com/vpaid/vPlayer/player/v8.6.1/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+[Child 6762, Chrome_ChildThread] WARNING: pipe error (19): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 6762, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517196479298	geckodriver	INFO	geckodriver 0.19.1
+1517196479308	geckodriver	INFO	Listening on 127.0.0.1:42893
+1517196480909	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.mII1VRngNqhO"
+1517196483080	Marionette	INFO	Enabled via --marionette
+1517196487768	Marionette	INFO	Listening on port 36125
+1517196490023	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 7829, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517196503567	geckodriver	INFO	geckodriver 0.19.1
+1517196503579	geckodriver	INFO	Listening on 127.0.0.1:55097
+1517196505177	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.GbMYCtPMe8vm"
+1517196507345	Marionette	INFO	Enabled via --marionette
+1517196510872	Marionette	INFO	Listening on port 38337
+1517196510981	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 8222, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517196529912	geckodriver	INFO	geckodriver 0.19.1
+1517196529924	geckodriver	INFO	Listening on 127.0.0.1:49745
+1517196531500	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.yG5uoMfHWFlv"
+1517196533747	Marionette	INFO	Enabled via --marionette
+1517196537653	Marionette	INFO	Listening on port 44885
+1517196537745	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+JavaScript warning: http://vidstat.taboola.com/vpaid/vPlayer/player/v8.6.1/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: http://vidstat.taboola.com/vpaid/vPlayer/player/v8.6.1/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+[Child 8603, Chrome_ChildThread] WARNING: pipe error (19): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 8603, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 8603, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517196578887	geckodriver	INFO	geckodriver 0.19.1
+1517196578900	geckodriver	INFO	Listening on 127.0.0.1:34807
+1517196580452	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.9AsjmgdpzF5I"
+1517196582594	Marionette	INFO	Enabled via --marionette
+1517196586443	Marionette	INFO	Listening on port 42797
+1517196586558	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+JavaScript error: http://adadvisor.net/adscores/g.js?sid=9276253823, line 1: SyntaxError: expected expression, got '<'
+1517196608028	geckodriver	INFO	geckodriver 0.19.1
+1517196608039	geckodriver	INFO	Listening on 127.0.0.1:44717
+1517196609616	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.3DJfJGMMRtKZ"
+1517196611868	Marionette	INFO	Enabled via --marionette
+1517196615557	Marionette	INFO	Listening on port 36407
+1517196615611	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+JavaScript warning: http://vidstat.taboola.com/vpaid/vPlayer/player/v8.6.1/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: http://vidstat.taboola.com/vpaid/vPlayer/player/v8.6.1/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript error: https://vpaid.springserve.com/production/vpaid_4135a8a1.js, line 1: TypeError: t.body is null
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: http://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: NS_ERROR_ILLEGAL_VALUE: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.36/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: http://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: NS_ERROR_ILLEGAL_VALUE: 
+JavaScript error: http://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: NS_ERROR_ILLEGAL_VALUE: 
+JavaScript error: http://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: NS_ERROR_ILLEGAL_VALUE: 
+JavaScript error: http://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: NS_ERROR_ILLEGAL_VALUE: 
+JavaScript error: http://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: NS_ERROR_ILLEGAL_VALUE: 
+JavaScript error: http://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: NS_ERROR_ILLEGAL_VALUE: 
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 9592, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517267670860	geckodriver	INFO	geckodriver 0.19.1
+1517267670875	geckodriver	INFO	Listening on 127.0.0.1:55763
+1517267672148	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.4UIOBSNhIvOz"
+1517267672943	Marionette	INFO	Enabled via --marionette
+1517267674900	Marionette	INFO	Listening on port 33109
+1517267674976	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+[Child 25351, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517267683255	geckodriver	INFO	geckodriver 0.19.1
+1517267683260	geckodriver	INFO	Listening on 127.0.0.1:48089
+1517267684610	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.HoHbkamlNxfq"
+1517267685771	Marionette	INFO	Enabled via --marionette
+1517267687980	Marionette	INFO	Listening on port 44829
+1517267688082	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+[Child 25586, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517267696175	geckodriver	INFO	geckodriver 0.19.1
+1517267696183	geckodriver	INFO	Listening on 127.0.0.1:40043
+1517267697520	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.YSyYlbYtcBdt"
+1517267698639	Marionette	INFO	Enabled via --marionette
+1517267700988	Marionette	INFO	Listening on port 38711
+1517267701367	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+JavaScript error: http://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html, line 96: ReferenceError: bodymovin is not defined
+JavaScript warning: https://allrecipes.groceryserver.com/groceryserver/whole-foods-nov-vegan-edu-300x250/gallery-scripts.jsp?chng=x3, line 4098: unreachable code after return statement
+[Child 25820, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 25820, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517267713982	geckodriver	INFO	geckodriver 0.19.1
+1517267713993	geckodriver	INFO	Listening on 127.0.0.1:42263
+1517267715360	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.eS68A3MzLqfT"
+1517267716265	Marionette	INFO	Enabled via --marionette
+1517267719168	Marionette	INFO	Listening on port 40507
+1517267719261	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+JavaScript warning: https://allrecipes.groceryserver.com/groceryserver/whole-foods-nov-vegan-edu-300x250/gallery-scripts.jsp?chng=x3, line 4098: unreachable code after return statement
+JavaScript warning: http://vidstat.taboola.com/vpaid/vPlayer/player/v8.6.1/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: http://vidstat.taboola.com/vpaid/vPlayer/player/v8.6.1/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.41/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+[Child 26106, Chrome_ChildThread] WARNING: pipe error (19): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517267735842	geckodriver	INFO	geckodriver 0.19.1
+1517267735852	geckodriver	INFO	Listening on 127.0.0.1:37413
+1517267737226	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.mhazD7jPwBNS"
+1517267738559	Marionette	INFO	Enabled via --marionette
+1517267741183	Marionette	INFO	Listening on port 39693
+1517267741427	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+[Child 26410, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 26410, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517267750217	geckodriver	INFO	geckodriver 0.19.1
+1517267750229	geckodriver	INFO	Listening on 127.0.0.1:49923
+1517267751583	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.6x07ekXcFqfh"
+1517267752988	Marionette	INFO	Enabled via --marionette
+1517267755853	Marionette	INFO	Listening on port 44555
+1517267755944	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1517267765279	geckodriver	INFO	geckodriver 0.19.1
+1517267765287	geckodriver	INFO	Listening on 127.0.0.1:34499
+1517267766767	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.yngQG6NXz9EW"
+1517267768057	Marionette	INFO	Enabled via --marionette
+1517267770979	Marionette	INFO	Listening on port 40473
+1517267771006	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+JavaScript warning: https://allrecipes.groceryserver.com/groceryserver/whole-foods-nov-vegan-edu-300x250/gallery-scripts.jsp?chng=x3, line 4098: unreachable code after return statement
+1517267785030	geckodriver	INFO	geckodriver 0.19.1
+1517267785040	geckodriver	INFO	Listening on 127.0.0.1:57373
+1517267786434	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.8dV3G7Vd5Pzx"
+1517267787660	Marionette	INFO	Enabled via --marionette
+1517267790957	Marionette	INFO	Listening on port 43847
+1517267791824	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+JavaScript warning: https://allrecipes.groceryserver.com/groceryserver/whole-foods-nov-vegan-edu-300x250/gallery-scripts.jsp?chng=x3, line 4098: unreachable code after return statement
+JavaScript warning: http://vidstat.taboola.com/vpaid/vPlayer/player/v8.6.1/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: http://vidstat.taboola.com/vpaid/vPlayer/player/v8.6.1/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.41/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+[Child 27171, Chrome_ChildThread] WARNING: pipe error (19): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 27171, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 27171, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517267811541	geckodriver	INFO	geckodriver 0.19.1
+1517267811551	geckodriver	INFO	Listening on 127.0.0.1:51647
+1517267812998	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.bEJuKz2bSuI2"
+1517267814489	Marionette	INFO	Enabled via --marionette
+1517267817943	Marionette	INFO	Listening on port 36801
+1517267818050	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+1517267828007	geckodriver	INFO	geckodriver 0.19.1
+1517267828018	geckodriver	INFO	Listening on 127.0.0.1:35877
+1517267829467	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.dHClLeBBTWTH"
+1517267831123	Marionette	INFO	Enabled via --marionette
+1517267834250	Marionette	INFO	Listening on port 46169
+1517267834327	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+[Child 27730, Chrome_ChildThread] WARNING: pipe error (44): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 27730, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517267843762	geckodriver	INFO	geckodriver 0.19.1
+1517267843773	geckodriver	INFO	Listening on 127.0.0.1:54667
+1517267845191	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.m7cxn79UMOUK"
+1517267846779	Marionette	INFO	Enabled via --marionette
+1517267849854	Marionette	INFO	Listening on port 43965
+1517267849935	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+JavaScript warning: https://allrecipes.groceryserver.com/groceryserver/whole-foods-nov-vegan-edu-300x250/gallery-scripts.jsp?chng=x3, line 4098: unreachable code after return statement
+JavaScript warning: http://vidstat.taboola.com/vpaid/vPlayer/player/v8.6.1/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: http://vidstat.taboola.com/vpaid/vPlayer/player/v8.6.1/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.41/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.41/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript warning: https://allrecipes.groceryserver.com/groceryserver/whole-foods-nov-vegan-edu-300x250/gallery-scripts.jsp?chng=x3, line 4098: unreachable code after return statement
+[Child 27982, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 27982, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 27982, Chrome_ChildThread] WARNING: pipe error (19): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 27982, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517267885985	geckodriver	INFO	geckodriver 0.19.1
+1517267885998	geckodriver	INFO	Listening on 127.0.0.1:54275
+1517267887461	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.jhmdpqJVWk4x"
+1517267889224	Marionette	INFO	Enabled via --marionette
+1517267893051	Marionette	INFO	Listening on port 45939
+1517267893142	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+[Child 28358, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517267902734	geckodriver	INFO	geckodriver 0.19.1
+1517267902749	geckodriver	INFO	Listening on 127.0.0.1:45805
+1517267904169	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.xCy97nF7Bs2F"
+1517267905921	Marionette	INFO	Enabled via --marionette
+1517267909431	Marionette	INFO	Listening on port 33857
+1517267909568	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+JavaScript warning: https://allrecipes.groceryserver.com/groceryserver/whole-foods-nov-vegan-edu-300x250/gallery-scripts.jsp?chng=x3, line 4098: unreachable code after return statement
+1517267928024	geckodriver	INFO	geckodriver 0.19.1
+1517267928038	geckodriver	INFO	Listening on 127.0.0.1:46661
+1517267929480	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Hb0VjTdLdR2W"
+1517267931255	Marionette	INFO	Enabled via --marionette
+1517267935172	Marionette	INFO	Listening on port 45815
+1517267935277	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+JavaScript warning: https://allrecipes.groceryserver.com/groceryserver/whole-foods-nov-vegan-edu-300x250/gallery-scripts.jsp?chng=x3, line 4098: unreachable code after return statement
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 28964, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517267951701	geckodriver	INFO	geckodriver 0.19.1
+1517267951711	geckodriver	INFO	Listening on 127.0.0.1:40707
+1517267953166	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.y9u4ZMnNo6Pm"
+1517267954946	Marionette	INFO	Enabled via --marionette
+1517267958815	Marionette	INFO	Listening on port 41327
+1517267958865	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+JavaScript warning: https://allrecipes.groceryserver.com/groceryserver/whole-foods-nov-vegan-edu-300x250/gallery-scripts.jsp?chng=x3, line 4098: unreachable code after return statement
+[Child 29189, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517267974261	geckodriver	INFO	geckodriver 0.19.1
+1517267974272	geckodriver	INFO	Listening on 127.0.0.1:46533
+1517267975712	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.mbKkGjew0kYl"
+1517267977661	Marionette	INFO	Enabled via --marionette
+1517267981324	Marionette	INFO	Listening on port 43115
+1517267981400	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+JavaScript warning: https://allrecipes.groceryserver.com/groceryserver/whole-foods-nov-vegan-edu-300x250/gallery-scripts.jsp?chng=x3, line 4098: unreachable code after return statement
+1517268002823	geckodriver	INFO	geckodriver 0.19.1
+1517268002838	geckodriver	INFO	Listening on 127.0.0.1:52877
+1517268004366	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.gTB92a0r5qnf"
+1517268006363	Marionette	INFO	Enabled via --marionette
+1517268010386	Marionette	INFO	Listening on port 46719
+1517268010469	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+[Child 29756, Chrome_ChildThread] WARNING: pipe error (44): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 29756, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517268020893	geckodriver	INFO	geckodriver 0.19.1
+1517268020906	geckodriver	INFO	Listening on 127.0.0.1:36169
+1517268022388	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ZfRtLczXrvR6"
+1517268024361	Marionette	INFO	Enabled via --marionette
+1517268028016	Marionette	INFO	Listening on port 40443
+1517268028057	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+JavaScript warning: https://allrecipes.groceryserver.com/groceryserver/whole-foods-nov-vegan-edu-300x250/gallery-scripts.jsp?chng=x3, line 4098: unreachable code after return statement
+JavaScript warning: http://vidstat.taboola.com/vpaid/vPlayer/player/v8.6.1/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: http://vidstat.taboola.com/vpaid/vPlayer/player/v8.6.1/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.41/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.41/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+[Child 30013, Chrome_ChildThread] WARNING: pipe error (19): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 30013, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 30013, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517268054336	geckodriver	INFO	geckodriver 0.19.1
+1517268054346	geckodriver	INFO	Listening on 127.0.0.1:56995
+1517268055941	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.RFPzhyL9mmZo"
+1517268057798	Marionette	INFO	Enabled via --marionette
+1517268062603	Marionette	INFO	Listening on port 39277
+1517268062691	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+JavaScript warning: https://allrecipes.groceryserver.com/groceryserver/whole-foods-nov-vegan-edu-300x250/gallery-scripts.jsp?chng=x3, line 4098: unreachable code after return statement
+JavaScript warning: http://vidstat.taboola.com/vpaid/vPlayer/player/v8.6.1/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: http://vidstat.taboola.com/vpaid/vPlayer/player/v8.6.1/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://allrecipes.groceryserver.com/groceryserver/whole-foods-nov-vegan-edu-300x250/gallery-scripts.jsp?chng=x3, line 4098: unreachable code after return statement
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.41/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.41/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.41/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.41/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.41/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript warning: https://allrecipes.groceryserver.com/groceryserver/whole-foods-nov-vegan-edu-300x250/gallery-scripts.jsp?chng=x3, line 4098: unreachable code after return statement
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.41/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.41/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.41/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.41/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.41/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+[Child 30367, Chrome_ChildThread] WARNING: pipe error (19): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 30367, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 30367, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517268132571	geckodriver	INFO	geckodriver 0.19.1
+1517268132583	geckodriver	INFO	Listening on 127.0.0.1:54811
+1517268134272	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.cBCSxfE32mwY"
+1517268136571	Marionette	INFO	Enabled via --marionette
+1517268140870	Marionette	INFO	Listening on port 42027
+1517268140994	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+JavaScript warning: https://allrecipes.groceryserver.com/groceryserver/whole-foods-nov-vegan-edu-300x250/gallery-scripts.jsp?chng=x3, line 4098: unreachable code after return statement
+JavaScript warning: http://vidstat.taboola.com/vpaid/vPlayer/player/v8.6.1/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: http://vidstat.taboola.com/vpaid/vPlayer/player/v8.6.1/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.41/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript warning: https://allrecipes.groceryserver.com/groceryserver/whole-foods-nov-vegan-edu-300x250/gallery-scripts.jsp?chng=x3, line 4098: unreachable code after return statement
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.41/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.41/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.41/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.41/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/2.1.41/0.js, line 146: NS_ERROR_NOT_INITIALIZED: 
+[Child 30890, Chrome_ChildThread] WARNING: pipe error (19): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 30890, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 30890, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517268195087	geckodriver	INFO	geckodriver 0.19.1
+1517268195098	geckodriver	INFO	Listening on 127.0.0.1:55859
+1517268196675	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.GGeKZD2CzyN2"
+1517268198844	Marionette	INFO	Enabled via --marionette
+1517268203222	Marionette	INFO	Listening on port 42791
+1517268203273	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.selectablemedia.com/ro/c/js/sm_sp.js, line 1244: unreachable code after return statement
+JavaScript warning: https://allrecipes.groceryserver.com/groceryserver/whole-foods-nov-vegan-edu-300x250/gallery-scripts.jsp?chng=x3, line 4098: unreachable code after return statement
