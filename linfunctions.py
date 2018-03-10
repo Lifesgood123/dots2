@@ -7,7 +7,7 @@ import numpy
 
 
 def get_slope(p, p1):
-    m = (p[1] - p1[1]) /(p[0] - p1[1])
+    global m = (p[1] - p1[1]) /(p[0] - p1[1])
     b = get_int(p, m)
     return m, b
 

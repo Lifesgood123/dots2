@@ -6,9 +6,9 @@ import pylab
 import numpy
 import argparse
 parser = argparse.ArgumentParser()
-parser.add_argument("a", type=int)
-parser.add_argument("b", type=int)
-parser.add_argument("c", type=int)
+parser.add_argument("a", type=str)
+parser.add_argument("b", type=str)
+parser.add_argument("c", type=str)
 parser.add_argument("-g", "--graph", help="display graph of function", action="store_true")
 parser.add_argument("-v", "--verbose", help="display more information", action='store_true')
 
@@ -47,8 +47,9 @@ print(get_max_min())
 try:
     print(get_x_int(1))
     print(get_x_int(0))
-    xint1 = str(Fraction((get_x_int(1))))
-    xint2 = str(Fraction((get_x_int(0))))
+    xint = [str(Fraction((get_x_int(1)))), str(Fraction((get_x_int(0))))]
+    for i in xint:
+        print(i)
 except: 
     print("roots aren't real")
 print("I/O check?")
