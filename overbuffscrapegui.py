@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from urllib.request import urlopen as ureq
 from bs4 import BeautifulSoup as bs
 import tkinter
@@ -20,32 +21,51 @@ class overbuff(tkinter.Tk):
         self.player_ties_label = tkinter.StringVar()
         self.player_skill_label = tkinter.StringVar()
         self.roles_label = tkinter.StringVar()
+        self.player_role_1_label = tkinter.StringVar()
+        self.player_role_2_label = tkinter.StringVar()
+        self.player_role_3_label = tkinter.StringVar()
         roles_label = tkinter.Label(self, textvariable=self.roles_label, anchor="w")
         player_name_label = tkinter.Label(self, textvariable=self.player_name_label, anchor='w')
         player_wins_label = tkinter.Label(self, textvariable=self.player_wins_label, anchor='w')
         player_losses_label = tkinter.Label(self, textvariable=self.player_losses_label, anchor='w')
         player_ties_label = tkinter.Label(self, textvariable=self.player_ties_label, anchor='w')
         player_skill_label = tkinter.Label(self, textvariable=self.player_skill_label, anchor='w')
-        
-        roles_label.grid(columnspan=3, row=6, column=0)
+        player_role_1_label = tkinter.Label(self, textvariable=self.player_role_1_label, anchor='w')
+        player_role_2_label = tkinter.Label(self, textvariable=self.player_role_2_label, anchor='w')
+        player_role_3_label = tkinter.Label(self, textvariable=self.player_role_3_label, anchor='w')
+
+
+        roles_label.grid(row=6, column=0)
         player_name_label.grid(row=1, column=0)
         player_skill_label.grid(row=2, column=0)
         player_wins_label.grid(row=3, column=0)
         player_losses_label.grid(row=4, column=0)
         player_ties_label.grid(row=5, column=0)
+        player_role_1_label.grid(rowspan=3, row=7, column=0)
+        player_role_2_label.grid(rowspan=3, row=10, column=0)
+        player_role_3_label.grid(rowspan=3, row=13, column=0)
         
         self.player_name = tkinter.StringVar()
         self.player_wins = tkinter.StringVar()
         self.player_losses = tkinter.StringVar()
         self.player_ties = tkinter.StringVar()
         self.player_skill = tkinter.StringVar()
+        self.player_role_1 = tkinter.StringVar()
+        self.player_role_2 = tkinter.StringVar()
+        self.player_role_3 = tkinter.StringVar()
 
-    
+
         player_name = tkinter.Label(self, textvariable=self.player_name, anchor='w')
         player_wins = tkinter.Label(self, textvariable=self.player_wins, anchor='w')
         player_losses = tkinter.Label(self, textvariable=self.player_losses, anchor='w')
         player_ties = tkinter.Label(self, textvariable=self.player_ties, anchor='w')
         player_skill = tkinter.Label(self, textvariable=self.player_skill, anchor='w')
+        player_role_1 = tkinter.Label(self, textvariable=self.player_role_1, anchor='w')
+        player_role_2 = tkinter.Label(self, textvariable=self.player_role_2, anchor='w')
+        player_role_3 = tkinter.Label(self, textvariable=self.player_role_3, anchor='w')
+        player_role_1.grid(row=7, column=1)
+        player_role_2.grid(row=10, column=1)
+        player_role_3.grid(row=13, column=1)
         player_name.grid(row=1, column=1)
         player_skill.grid(row=2, column=1)
         player_wins.grid(row=3, column=1)
@@ -55,21 +75,28 @@ class overbuff(tkinter.Tk):
         self.resizable(True, True)
 
 
+
     def OnPressEnter(self, event):
         self.player_name_label.set("Name:")
         self.player_wins_label.set("Wins")
         self.player_losses_label.set("Losses:")
         self.player_ties_label.set("ties:")
         self.player_skill_label.set("Skill:")
-        self.roles_label.set("Roles")
         info = self.get_info(self.entry.get())
         print(info)
+        keys = list(info['Roles'].keys())
+        self.player_role_1_label.set(keys[0])
+        self.player_role_2_label.set(keys[1])
+        self.player_role_3_label.set(keys[2])
+        self.player_role_1.set(info['Roles'][keys[0]])
+        self.player_role_2.set(info['Roles'][keys[1]])
+        self.player_role_3.set(info['Roles'][keys[2]])
         self.player_name.set(info["name"])
         self.player_wins.set(info['wins'])
         self.player_losses.set(info['losses'])
         self.player_ties.set(info['ties'])
         self.player_skill.set(info['skill_rating'])
-        
+
 
 
         
