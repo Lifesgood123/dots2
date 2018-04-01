@@ -1,7 +1,7 @@
 import pprint
 pp = pprint.PrettyPrinter(indent=4)
 import random
-stuff = random.sample(range(100), 10)
+stuff = random.sample(range(1000000), 10000)
 pp.pprint(stuff)
 def bubble_sort(seq):
     changed = True
